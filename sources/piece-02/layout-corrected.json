@@ -164,14 +164,14 @@
 			]
 		},
 		{
-			"id": "i19",
-			"name": "Cymbales antiques in e2 un h2",
+			"id": "i20",
+			"name": "Cymbales antiques in e2 und h2",
 			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i19-1",
+					"id": "i20-1",
 					"parts": []
 				}
 			]
@@ -285,7 +285,7 @@
 		}
 	],
 	"groups": [],
-	"instrumentsFixed": false,
+	"instrumentsFixed": true,
 	"pages": [
 		{
 			"image": "../img/04.jpg",
@@ -371,7 +371,7 @@
 					"uly": 1728,
 					"lrx": 2494,
 					"lry": 1807,
-					"staff": "i19-1"
+					"staff": "i20-1"
 				},
 				{
 					"ulx": 540,

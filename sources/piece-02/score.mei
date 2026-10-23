@@ -140,8 +140,8 @@
                            <labelAbbr xml:id="labelAbbr-13">III</labelAbbr>
                         </staffDef>
                      </staffGrp>
-                     <staffDef xml:id="i19-1" n="11" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4">
-                        <label xml:id="label-28">Cymbales antiques in e2 un h2</label>
+                     <staffDef xml:id="i20-1" n="11" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4">
+                        <label xml:id="label-28">Cymbales antiques in e2 und h2</label>
                      </staffDef>
                      <staffGrp xml:id="i8" symbol="none" bar.thru="true">
                         <label xml:id="label-29">Harfe</label>
