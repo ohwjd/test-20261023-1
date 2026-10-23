@@ -160,19 +160,6 @@
 					"parts": []
 				}
 			]
-		},
-		{
-			"id": "i1",
-			"name": "Flütes,",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i1-1",
-					"parts": []
-				}
-			]
 		}
 	],
 	"groups": [],
@@ -622,70 +609,70 @@
 					"uly": 1989,
 					"lrx": 2764,
 					"lry": 2059,
-					"staff": "i1-1"
+					"staff": "i14-1"
 				},
 				{
 					"ulx": 273,
 					"uly": 2159,
 					"lrx": 2764,
 					"lry": 2230,
-					"staff": "i9-1"
+					"staff": "i15-1"
 				},
 				{
 					"ulx": 281,
 					"uly": 2332,
 					"lrx": 2762,
 					"lry": 2397,
-					"staff": "i13-1"
+					"staff": "i21-2"
 				},
 				{
 					"ulx": 272,
 					"uly": 2498,
 					"lrx": 2763,
 					"lry": 2571,
-					"staff": "i14-1"
+					"staff": "i21-3"
 				},
 				{
 					"ulx": 272,
 					"uly": 2667,
 					"lrx": 2767,
 					"lry": 2741,
-					"staff": "i15-1"
+					"staff": "i17-2"
 				},
 				{
 					"ulx": 272,
 					"uly": 2845,
 					"lrx": 2758,
 					"lry": 2911,
-					"staff": "i16-1"
+					"staff": "i17-3"
 				},
 				{
 					"ulx": 266,
 					"uly": 3014,
 					"lrx": 2763,
 					"lry": 3079,
-					"staff": "i17-2"
+					"staff": "i18-1"
 				},
 				{
 					"ulx": 266,
 					"uly": 3184,
 					"lrx": 2763,
 					"lry": 3253,
-					"staff": "i17-3"
+					"staff": "i9-1"
 				},
 				{
 					"ulx": 264,
 					"uly": 3354,
 					"lrx": 2752,
 					"lry": 3426,
-					"staff": "i18-1"
+					"staff": "i19-1"
 				},
 				{
 					"ulx": 265,
 					"uly": 3528,
 					"lrx": 2764,
 					"lry": 3590,
-					"staff": "i19-1"
+					"staff": "i20-1"
 				}
 			],
 			"grandstaves": []
