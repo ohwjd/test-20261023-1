@@ -1,6 +1,91 @@
 {
 	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
-	"instruments": [],
+	"instruments": [
+		{
+			"id": "i1",
+			"name": "FAGOTTI",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i1-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i2",
+			"name": "CORNI in Re",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i2-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i3",
+			"name": "VIOLINI",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "II"
+				}
+			],
+			"staves": [
+				{
+					"id": "i3-1",
+					"parts": [
+						0
+					]
+				}
+			]
+		},
+		{
+			"id": "i4",
+			"name": "VIOLE",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i4-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i5",
+			"name": "VIOLONCELLI",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i5-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i6",
+			"name": "CONTRABBASSI",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i6-1",
+					"parts": []
+				}
+			]
+		}
+	],
 	"groups": [],
 	"instrumentsFixed": false,
 	"pages": [
@@ -115,13 +200,15 @@
 					"ulx": 478,
 					"uly": 600,
 					"lrx": 2158,
-					"lry": 666
+					"lry": 666,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 475,
 					"uly": 749,
 					"lrx": 2163,
-					"lry": 819
+					"lry": 819,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 478,
@@ -139,25 +226,29 @@
 					"ulx": 475,
 					"uly": 1237,
 					"lrx": 2160,
-					"lry": 1303
+					"lry": 1303,
+					"staff": "i3-1"
 				},
 				{
 					"ulx": 473,
 					"uly": 1370,
 					"lrx": 2157,
-					"lry": 1437
+					"lry": 1437,
+					"staff": "i4-1"
 				},
 				{
 					"ulx": 484,
 					"uly": 1513,
 					"lrx": 2163,
-					"lry": 1578
+					"lry": 1578,
+					"staff": "i5-1"
 				},
 				{
 					"ulx": 454,
 					"uly": 1639,
 					"lrx": 2160,
-					"lry": 1705
+					"lry": 1705,
+					"staff": "i6-1"
 				},
 				{
 					"ulx": 257,
