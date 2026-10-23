@@ -2,28 +2,43 @@
 	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
 	"instruments": [
 		{
-			"id": "i1",
-			"name": "FAGOTTI",
+			"id": "i9",
+			"name": "Fagotti",
 			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i1-1",
+					"id": "i9-1",
 					"parts": []
 				}
 			]
 		},
 		{
-			"id": "i2",
-			"name": "CORNI in Re",
+			"id": "i7",
+			"name": "Corni",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "Fa"
+				},
+				{
+					"name": "Re"
+				}
+			],
 			"staves": [
 				{
-					"id": "i2-1",
-					"parts": []
+					"id": "i7-2",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i7-3",
+					"parts": [
+						1
+					]
 				}
 			]
 		},
@@ -201,20 +216,21 @@
 					"uly": 600,
 					"lrx": 2158,
 					"lry": 666,
-					"staff": "i1-1"
+					"staff": "i9-1"
 				},
 				{
 					"ulx": 475,
 					"uly": 749,
 					"lrx": 2163,
 					"lry": 819,
-					"staff": "i2-1"
+					"staff": "i7-3"
 				},
 				{
 					"ulx": 478,
 					"uly": 977,
 					"lrx": 2160,
-					"lry": 982
+					"lry": 982,
+					"staff": "i7-2"
 				},
 				{
 					"ulx": 475,
