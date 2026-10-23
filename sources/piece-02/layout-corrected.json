@@ -165,18 +165,18 @@
 			]
 		},
 		{
-			"id": "i8",
-			"name": "Harfe",
+			"id": "i20",
+			"name": "Harfe I",
 			"abbr": "",
 			"grand": true,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i8-1",
+					"id": "i20-1",
 					"parts": []
 				},
 				{
-					"id": "i8-2",
+					"id": "i20-2",
 					"parts": []
 				}
 			]
@@ -358,14 +358,14 @@
 					"uly": 1885,
 					"lrx": 2497,
 					"lry": 1971,
-					"staff": "i8-1"
+					"staff": "i20-1"
 				},
 				{
 					"ulx": 542,
 					"uly": 2077,
 					"lrx": 2504,
 					"lry": 2159,
-					"staff": "i8-2"
+					"staff": "i20-2"
 				},
 				{
 					"ulx": 559,

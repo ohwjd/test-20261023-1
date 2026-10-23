@@ -131,11 +131,11 @@
                      <staffDef xml:id="i19-1" n="9" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4">
                         <label xml:id="label-26">Cymbales antiques in e2 un h2</label>
                      </staffDef>
-                     <staffGrp xml:id="i8" symbol="brace" bar.thru="true">
-                        <label xml:id="label-27">Harfe</label>
+                     <staffGrp xml:id="i20" symbol="brace" bar.thru="true">
+                        <label xml:id="label-27">Harfe I</label>
                         <instrDef xml:id="instrDef-6"/>
-                        <staffDef xml:id="i8-1" n="10" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4"/>
-                        <staffDef xml:id="i8-2" n="11" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4"/>
+                        <staffDef xml:id="i20-1" n="10" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4"/>
+                        <staffDef xml:id="i20-2" n="11" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4"/>
                      </staffGrp>
                      <staffGrp xml:id="i9" symbol="brace" bar.thru="true">
                         <label xml:id="label-28">Harfe II</label>
