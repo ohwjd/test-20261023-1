@@ -87,8 +87,8 @@
 			]
 		},
 		{
-			"id": "i5",
-			"name": "VIOLONCELLI",
+			"id": "i11",
+			"name": "Violoncelli",
 			"abbr": "",
 			"grand": false,
 			"parts": [
@@ -98,7 +98,7 @@
 			],
 			"staves": [
 				{
-					"id": "i5-2",
+					"id": "i11-1",
 					"parts": [
 						0
 					]
@@ -282,7 +282,7 @@
 					"uly": 1513,
 					"lrx": 2163,
 					"lry": 1578,
-					"staff": "i5-2"
+					"staff": "i11-1"
 				},
 				{
 					"ulx": 454,

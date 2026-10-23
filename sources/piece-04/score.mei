@@ -118,10 +118,10 @@
                      <staffDef xml:id="i4-1" n="6" lines="5" clef.shape="C" clef.line="3" meter.count="4" meter.unit="4">
                         <label xml:id="label-8">VIOLE</label>
                      </staffDef>
-                     <staffGrp xml:id="i5" symbol="bracket" bar.thru="true">
-                        <label xml:id="label-9">VIOLONCELLI</label>
+                     <staffGrp xml:id="i11" symbol="bracket" bar.thru="true">
+                        <label xml:id="label-9">Violoncelli</label>
                         <instrDef xml:id="instrDef-3"/>
-                        <staffDef xml:id="i5-2" n="7" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4">
+                        <staffDef xml:id="i11-1" n="7" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4">
                            <label xml:id="label-10">Vc</label>
                            <labelAbbr xml:id="labelAbbr-5">Vc</labelAbbr>
                         </staffDef>
