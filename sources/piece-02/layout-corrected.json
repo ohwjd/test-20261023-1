@@ -38,23 +38,33 @@
 			"name": "Oboe",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
 			"staves": [
 				{
-					"id": "i2-1",
-					"parts": []
+					"id": "i2-2",
+					"parts": [
+						0,
+						1
+					]
 				}
 			]
 		},
 		{
-			"id": "i3",
-			"name": "Englisch Hom",
+			"id": "i16",
+			"name": "Englisch Horn",
 			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i3-1",
+					"id": "i16-1",
 					"parts": []
 				}
 			]
@@ -256,14 +266,14 @@
 					"uly": 912,
 					"lrx": 2508,
 					"lry": 988,
-					"staff": "i2-1"
+					"staff": "i2-2"
 				},
 				{
 					"ulx": 548,
 					"uly": 1042,
 					"lrx": 2501,
 					"lry": 1123,
-					"staff": "i3-1"
+					"staff": "i16-1"
 				},
 				{
 					"ulx": 535,
