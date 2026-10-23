@@ -4,7 +4,7 @@
 		{
 			"id": "i15",
 			"name": "Flöte",
-			"abbr": "",
+			"abbr": "Fl.",
 			"grand": false,
 			"parts": [
 				{
@@ -36,7 +36,7 @@
 		{
 			"id": "i2",
 			"name": "Oboe",
-			"abbr": "",
+			"abbr": "Ob.",
 			"grand": false,
 			"parts": [
 				{
@@ -59,7 +59,7 @@
 		{
 			"id": "i16",
 			"name": "Englisch Horn",
-			"abbr": "",
+			"abbr": "Klar.",
 			"grand": false,
 			"parts": [],
 			"staves": [
