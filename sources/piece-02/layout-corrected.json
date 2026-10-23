@@ -70,15 +70,25 @@
 			]
 		},
 		{
-			"id": "i4",
-			"name": "Klannette",
+			"id": "i17",
+			"name": "Klarinette",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
 			"staves": [
 				{
-					"id": "i4-1",
-					"parts": []
+					"id": "i17-2",
+					"parts": [
+						0,
+						1
+					]
 				}
 			]
 		},
@@ -87,11 +97,21 @@
 			"name": "Fagott",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
 			"staves": [
 				{
-					"id": "i5-1",
-					"parts": []
+					"id": "i5-2",
+					"parts": [
+						0,
+						1
+					]
 				}
 			]
 		},
@@ -280,14 +300,14 @@
 					"uly": 1175,
 					"lrx": 2504,
 					"lry": 1252,
-					"staff": "i4-1"
+					"staff": "i17-2"
 				},
 				{
 					"ulx": 539,
 					"uly": 1301,
 					"lrx": 2501,
 					"lry": 1379,
-					"staff": "i5-1"
+					"staff": "i5-2"
 				},
 				{
 					"ulx": 538,
