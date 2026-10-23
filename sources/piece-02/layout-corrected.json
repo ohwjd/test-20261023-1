@@ -284,8 +284,17 @@
 			]
 		}
 	],
-	"groups": [],
-	"instrumentsFixed": true,
+	"groups": [
+		{
+			"id": "g1",
+			"first": "i15",
+			"last": "i14",
+			"symbol": "bracket",
+			"label": "",
+			"barThru": false
+		}
+	],
+	"instrumentsFixed": false,
 	"pages": [
 		{
 			"image": "../img/04.jpg",
