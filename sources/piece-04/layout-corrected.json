@@ -59,9 +59,18 @@
 				},
 				{
 					"name": "2"
+				},
+				{
+					"name": "I"
 				}
 			],
 			"staves": [
+				{
+					"id": "i10-2",
+					"parts": [
+						0
+					]
+				},
 				{
 					"id": "i10-3",
 					"parts": [
@@ -73,18 +82,24 @@
 					"parts": [
 						2
 					]
+				},
+				{
+					"id": "i10-6",
+					"parts": [
+						3
+					]
 				}
 			]
 		},
 		{
-			"id": "i4",
-			"name": "VIOLE",
-			"abbr": "Vle.",
+			"id": "i13",
+			"name": "Viole",
+			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i4-1",
+					"id": "i13-1",
 					"parts": []
 				}
 			]
@@ -124,6 +139,19 @@
 					"parts": [
 						0
 					]
+				}
+			]
+		},
+		{
+			"id": "i4",
+			"name": "VIOLE",
+			"abbr": "Vle.",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i4-1",
+					"parts": []
 				}
 			]
 		}
@@ -264,21 +292,21 @@
 					"uly": 1096,
 					"lrx": 2161,
 					"lry": 1171,
-					"staff": "i10-3"
+					"staff": "i10-6"
 				},
 				{
 					"ulx": 475,
 					"uly": 1237,
 					"lrx": 2160,
 					"lry": 1303,
-					"staff": "i10-4"
+					"staff": "i10-2"
 				},
 				{
 					"ulx": 473,
 					"uly": 1370,
 					"lrx": 2157,
 					"lry": 1437,
-					"staff": "i4-1"
+					"staff": "i13-1"
 				},
 				{
 					"ulx": 484,
