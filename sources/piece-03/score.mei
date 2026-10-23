@@ -48,9 +48,45 @@
       <facsimile xml:id="facsimile-1">
          <surface xml:id="surface-1" n="1" ulx="0" uly="0" lrx="2924" lry="3875">
             <graphic xml:id="graphic-1" target="../img/06.jpg" width="2924" height="3875"/>
+            <zone xml:id="zone-1-1" type="measure" n="1" ulx="529" uly="544" lrx="941" lry="2284"/>
+            <zone xml:id="zone-1-2" type="measure" n="2" ulx="864" uly="552" lrx="1190" lry="2287"/>
+            <zone xml:id="zone-1-3" type="measure" n="3" ulx="1112" uly="554" lrx="1432" lry="2289"/>
+            <zone xml:id="zone-1-4" type="measure" n="4" ulx="1353" uly="538" lrx="1684" lry="2288"/>
+            <zone xml:id="zone-1-5" type="measure" n="5" ulx="1609" uly="537" lrx="1921" lry="2285"/>
+            <zone xml:id="zone-1-6" type="measure" n="6" ulx="1848" uly="533" lrx="2141" lry="2287"/>
+            <zone xml:id="zone-1-7" type="measure" n="7" ulx="2065" uly="537" lrx="2368" lry="2271"/>
+            <zone xml:id="zone-1-8" type="measure" n="8" ulx="2295" uly="529" lrx="2595" lry="2263"/>
+            <zone xml:id="zone-1-9" type="measure" n="9" ulx="2526" uly="531" lrx="2831" lry="2265"/>
+            <zone xml:id="zone-1-10" type="measure" n="10" ulx="252" uly="2317" lrx="659" lry="3641"/>
+            <zone xml:id="zone-1-11" type="measure" n="11" ulx="586" uly="2325" lrx="974" lry="3643"/>
+            <zone xml:id="zone-1-12" type="measure" n="12" ulx="901" uly="2326" lrx="1257" lry="3644"/>
+            <zone xml:id="zone-1-13" type="measure" n="13" ulx="1180" uly="2329" lrx="1554" lry="3642"/>
+            <zone xml:id="zone-1-14" type="measure" n="14" ulx="1486" uly="2326" lrx="1882" lry="3642"/>
+            <zone xml:id="zone-1-15" type="measure" n="15" ulx="1813" uly="2325" lrx="2183" lry="3643"/>
+            <zone xml:id="zone-1-16" type="measure" n="16" ulx="2111" uly="2322" lrx="2506" lry="3642"/>
+            <zone xml:id="zone-1-17" type="measure" n="17" ulx="2434" uly="2324" lrx="2825" lry="3643"/>
          </surface>
          <surface xml:id="surface-2" n="2" ulx="0" uly="0" lrx="2964" lry="3905">
             <graphic xml:id="graphic-2" target="../img/07.jpg" width="2964" height="3905"/>
+            <zone xml:id="zone-2-1" type="measure" n="18" ulx="236" uly="341" lrx="655" lry="1878"/>
+            <zone xml:id="zone-2-2" type="measure" n="19" ulx="580" uly="345" lrx="866" lry="1874"/>
+            <zone xml:id="zone-2-3" type="measure" n="20" ulx="790" uly="347" lrx="1105" lry="1872"/>
+            <zone xml:id="zone-2-4" type="measure" n="21" ulx="1034" uly="349" lrx="1331" lry="1873"/>
+            <zone xml:id="zone-2-5" type="measure" n="22" ulx="1256" uly="348" lrx="1593" lry="1871"/>
+            <zone xml:id="zone-2-6" type="measure" n="23" ulx="1529" uly="343" lrx="1837" lry="1876"/>
+            <zone xml:id="zone-2-7" type="measure" n="24" ulx="1764" uly="340" lrx="2107" lry="1877"/>
+            <zone xml:id="zone-2-8" type="measure" n="25" ulx="2033" uly="337" lrx="2339" lry="1874"/>
+            <zone xml:id="zone-2-9" type="measure" n="26" ulx="2264" uly="343" lrx="2578" lry="1872"/>
+            <zone xml:id="zone-2-10" type="measure" n="27" ulx="2503" uly="341" lrx="2809" lry="1877"/>
+            <zone xml:id="zone-2-11" type="measure" n="28" ulx="225" uly="1957" lrx="655" lry="3649"/>
+            <zone xml:id="zone-2-12" type="measure" n="29" ulx="581" uly="1958" lrx="906" lry="3640"/>
+            <zone xml:id="zone-2-13" type="measure" n="30" ulx="833" uly="1963" lrx="1182" lry="3635"/>
+            <zone xml:id="zone-2-14" type="measure" n="31" ulx="1104" uly="1960" lrx="1424" lry="3636"/>
+            <zone xml:id="zone-2-15" type="measure" n="32" ulx="1353" uly="1960" lrx="1700" lry="3638"/>
+            <zone xml:id="zone-2-16" type="measure" n="33" ulx="1624" uly="1960" lrx="1945" lry="3637"/>
+            <zone xml:id="zone-2-17" type="measure" n="34" ulx="1879" uly="1957" lrx="2232" lry="3637"/>
+            <zone xml:id="zone-2-18" type="measure" n="35" ulx="2156" uly="1961" lrx="2486" lry="3636"/>
+            <zone xml:id="zone-2-19" type="measure" n="36" ulx="2411" uly="1966" lrx="2806" lry="3643"/>
          </surface>
       </facsimile>
       <body xml:id="body-1">
@@ -58,10 +94,194 @@
             <score xml:id="score-1">
                <scoreDef xml:id="scoreDef-1">
                   <staffGrp xml:id="staffGrp-1">
-                     <staffDef xml:id="staffDef-1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
+
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-1">
+               <pb xml:id="pb-1" n="1" facs="#surface-1"/>
+               <measure xml:id="measure-1" n="1" facs="#zone-1-1">
+                  <staff xml:id="staff-1" n="1">
+                     <layer xml:id="layer-1" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-2" n="2" facs="#zone-1-2">
+                  <staff xml:id="staff-2" n="1">
+                     <layer xml:id="layer-2" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-3" n="3" facs="#zone-1-3">
+                  <staff xml:id="staff-3" n="1">
+                     <layer xml:id="layer-3" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-4" n="4" facs="#zone-1-4">
+                  <staff xml:id="staff-4" n="1">
+                     <layer xml:id="layer-4" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-5" n="5" facs="#zone-1-5">
+                  <staff xml:id="staff-5" n="1">
+                     <layer xml:id="layer-5" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-6" n="6" facs="#zone-1-6">
+                  <staff xml:id="staff-6" n="1">
+                     <layer xml:id="layer-6" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-7" n="7" facs="#zone-1-7">
+                  <staff xml:id="staff-7" n="1">
+                     <layer xml:id="layer-7" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-8" n="8" facs="#zone-1-8">
+                  <staff xml:id="staff-8" n="1">
+                     <layer xml:id="layer-8" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-9" n="9" facs="#zone-1-9">
+                  <staff xml:id="staff-9" n="1">
+                     <layer xml:id="layer-9" n="1"/>
+                  </staff>
+               </measure>
+               <sb xml:id="sb-1-10" n="1"/>
+               <measure xml:id="measure-10" n="10" facs="#zone-1-10">
+                  <staff xml:id="staff-10" n="1">
+                     <layer xml:id="layer-10" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-11" n="11" facs="#zone-1-11">
+                  <staff xml:id="staff-11" n="1">
+                     <layer xml:id="layer-11" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-12" n="12" facs="#zone-1-12">
+                  <staff xml:id="staff-12" n="1">
+                     <layer xml:id="layer-12" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-13" n="13" facs="#zone-1-13">
+                  <staff xml:id="staff-13" n="1">
+                     <layer xml:id="layer-13" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-14" n="14" facs="#zone-1-14">
+                  <staff xml:id="staff-14" n="1">
+                     <layer xml:id="layer-14" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-15" n="15" facs="#zone-1-15">
+                  <staff xml:id="staff-15" n="1">
+                     <layer xml:id="layer-15" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-16" n="16" facs="#zone-1-16">
+                  <staff xml:id="staff-16" n="1">
+                     <layer xml:id="layer-16" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-17" n="17" facs="#zone-1-17">
+                  <staff xml:id="staff-17" n="1">
+                     <layer xml:id="layer-17" n="1"/>
+                  </staff>
+               </measure>
+               <pb xml:id="pb-2" n="2" facs="#surface-2"/>
+               <measure xml:id="measure-18" n="18" facs="#zone-2-1">
+                  <staff xml:id="staff-18" n="1">
+                     <layer xml:id="layer-18" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-19" n="19" facs="#zone-2-2">
+                  <staff xml:id="staff-19" n="1">
+                     <layer xml:id="layer-19" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-20" n="20" facs="#zone-2-3">
+                  <staff xml:id="staff-20" n="1">
+                     <layer xml:id="layer-20" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-21" n="21" facs="#zone-2-4">
+                  <staff xml:id="staff-21" n="1">
+                     <layer xml:id="layer-21" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-22" n="22" facs="#zone-2-5">
+                  <staff xml:id="staff-22" n="1">
+                     <layer xml:id="layer-22" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-23" n="23" facs="#zone-2-6">
+                  <staff xml:id="staff-23" n="1">
+                     <layer xml:id="layer-23" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-24" n="24" facs="#zone-2-7">
+                  <staff xml:id="staff-24" n="1">
+                     <layer xml:id="layer-24" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-25" n="25" facs="#zone-2-8">
+                  <staff xml:id="staff-25" n="1">
+                     <layer xml:id="layer-25" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-26" n="26" facs="#zone-2-9">
+                  <staff xml:id="staff-26" n="1">
+                     <layer xml:id="layer-26" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-27" n="27" facs="#zone-2-10">
+                  <staff xml:id="staff-27" n="1">
+                     <layer xml:id="layer-27" n="1"/>
+                  </staff>
+               </measure>
+               <sb xml:id="sb-2-11" n="2"/>
+               <measure xml:id="measure-28" n="28" facs="#zone-2-11">
+                  <staff xml:id="staff-28" n="1">
+                     <layer xml:id="layer-28" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-29" n="29" facs="#zone-2-12">
+                  <staff xml:id="staff-29" n="1">
+                     <layer xml:id="layer-29" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-30" n="30" facs="#zone-2-13">
+                  <staff xml:id="staff-30" n="1">
+                     <layer xml:id="layer-30" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-31" n="31" facs="#zone-2-14">
+                  <staff xml:id="staff-31" n="1">
+                     <layer xml:id="layer-31" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-32" n="32" facs="#zone-2-15">
+                  <staff xml:id="staff-32" n="1">
+                     <layer xml:id="layer-32" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-33" n="33" facs="#zone-2-16">
+                  <staff xml:id="staff-33" n="1">
+                     <layer xml:id="layer-33" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-34" n="34" facs="#zone-2-17">
+                  <staff xml:id="staff-34" n="1">
+                     <layer xml:id="layer-34" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-35" n="35" facs="#zone-2-18">
+                  <staff xml:id="staff-35" n="1">
+                     <layer xml:id="layer-35" n="1"/>
+                  </staff>
+               </measure>
+               <measure xml:id="measure-36" n="36" facs="#zone-2-19">
+                  <staff xml:id="staff-36" n="1">
+                     <layer xml:id="layer-36" n="1"/>
+                  </staff>
+               </measure>
                </section>
             </score>
          </mdiv>
