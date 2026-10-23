@@ -48,7 +48,7 @@
 		{
 			"id": "i10",
 			"name": "Violini",
-			"abbr": "",
+			"abbr": "Vni.",
 			"grand": false,
 			"parts": [
 				{
@@ -79,7 +79,7 @@
 		{
 			"id": "i4",
 			"name": "VIOLE",
-			"abbr": "Vle",
+			"abbr": "Vle.",
 			"grand": false,
 			"parts": [],
 			"staves": [
