@@ -126,25 +126,6 @@
 					]
 				}
 			]
-		},
-		{
-			"id": "i6",
-			"name": "CONTRABBASSI",
-			"abbr": "",
-			"grand": false,
-			"parts": [
-				{
-					"name": "Kb"
-				}
-			],
-			"staves": [
-				{
-					"id": "i6-2",
-					"parts": [
-						0
-					]
-				}
-			]
 		}
 	],
 	"groups": [],
@@ -374,7 +355,7 @@
 					"uly": 2906,
 					"lrx": 2167,
 					"lry": 2972,
-					"staff": "i6-2"
+					"staff": "i12-1"
 				}
 			],
 			"grandstaves": []
@@ -502,7 +483,7 @@
 					"uly": 1006,
 					"lrx": 2172,
 					"lry": 1073,
-					"staff": "i6-2"
+					"staff": "i12-1"
 				},
 				{
 					"ulx": 261,
@@ -544,7 +525,7 @@
 					"uly": 2000,
 					"lrx": 2176,
 					"lry": 2064,
-					"staff": "i6-2"
+					"staff": "i12-1"
 				},
 				{
 					"ulx": 253,
@@ -586,7 +567,7 @@
 					"uly": 2890,
 					"lrx": 2176,
 					"lry": 2952,
-					"staff": "i6-2"
+					"staff": "i12-1"
 				}
 			],
 			"grandstaves": []
