@@ -165,35 +165,18 @@
 			]
 		},
 		{
-			"id": "i20",
-			"name": "Harfe I",
+			"id": "i8",
+			"name": "Harfe",
 			"abbr": "",
 			"grand": true,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i20-1",
+					"id": "i8-1",
 					"parts": []
 				},
 				{
-					"id": "i20-2",
-					"parts": []
-				}
-			]
-		},
-		{
-			"id": "i9",
-			"name": "Harfe II",
-			"abbr": "",
-			"grand": true,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i9-1",
-					"parts": []
-				},
-				{
-					"id": "i9-2",
+					"id": "i8-2",
 					"parts": []
 				}
 			]
@@ -261,23 +244,6 @@
 			"staves": [
 				{
 					"id": "i14-1",
-					"parts": []
-				}
-			]
-		},
-		{
-			"id": "i8",
-			"name": "Harfe",
-			"abbr": "",
-			"grand": true,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i8-1",
-					"parts": []
-				},
-				{
-					"id": "i8-2",
 					"parts": []
 				}
 			]
@@ -377,28 +343,28 @@
 					"uly": 1885,
 					"lrx": 2497,
 					"lry": 1971,
-					"staff": "i20-1"
+					"staff": "i8-1"
 				},
 				{
 					"ulx": 542,
 					"uly": 2077,
 					"lrx": 2504,
 					"lry": 2159,
-					"staff": "i20-2"
+					"staff": "i8-2"
 				},
 				{
 					"ulx": 559,
 					"uly": 2221,
 					"lrx": 2492,
 					"lry": 2303,
-					"staff": "i9-1"
+					"staff": "i8-1"
 				},
 				{
 					"ulx": 542,
 					"uly": 2358,
 					"lrx": 2491,
 					"lry": 2438,
-					"staff": "i9-2"
+					"staff": "i8-2"
 				},
 				{
 					"ulx": 541,
@@ -520,14 +486,14 @@
 					"uly": 1379,
 					"lrx": 2492,
 					"lry": 1476,
-					"staff": "i20-1"
+					"staff": "i8-1"
 				},
 				{
 					"ulx": 377,
 					"uly": 1584,
 					"lrx": 2497,
 					"lry": 1680,
-					"staff": "i20-2"
+					"staff": "i8-2"
 				},
 				{
 					"ulx": 377,
