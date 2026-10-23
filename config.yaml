@@ -1,0 +1,81 @@
+schema_version: 3
+campaign:
+  name: "test-20261023-1"
+  title: "Fledermaus und Debussy and other Instrument Name Test"
+  description: ""
+  instigator: "38179254"
+  repo_id: 1431022337
+  language: "en"
+  license: "CC-BY-4.0"
+automation:
+  central_repository: "lets-encode/lets-encode"
+  ref: "develop-instruments-named"
+  path: "scripts/coordinator.ts"
+source:
+  kind: "facsimile"
+  images:
+    - "sources/img/01.jpg"
+    - "sources/img/02.jpg"
+    - "sources/img/03.jpg"
+    - "sources/img/04.jpg"
+    - "sources/img/05.jpg"
+    - "sources/img/06.jpg"
+    - "sources/img/07.jpg"
+    - "sources/img/08.jpg"
+    - "sources/img/09.jpg"
+  header:
+    title: "What a weird compilation?"
+    composer: ""
+    publisher: ""
+    date: ""
+  rights_acknowledged: "1"
+pieces:
+  - id: "piece-01"
+    kind: "facsimile"
+    preparation: "omr-instruments"
+    path: "sources/piece-01/score.mei"
+    zones:
+      - { surface: 1, ulx: 0, uly: 0, lrx: 2480, lry: 3509 }
+      - { surface: 2, ulx: 0, uly: 0, lrx: 2480, lry: 3509 }
+      - { surface: 3, ulx: 0, uly: 0, lrx: 2480, lry: 3509 }
+    header:
+      title: "Fledermaus"
+      composer: ""
+  - id: "piece-02"
+    kind: "facsimile"
+    preparation: "omr-instruments"
+    path: "sources/piece-02/score.mei"
+    zones:
+      - { surface: 4, ulx: 0, uly: 0, lrx: 2700, lry: 3601 }
+      - { surface: 5, ulx: 0, uly: 0, lrx: 2700, lry: 3601 }
+    header:
+      title: "Prelude"
+      composer: ""
+  - id: "piece-03"
+    kind: "facsimile"
+    preparation: "omr-instruments"
+    path: "sources/piece-03/score.mei"
+    zones:
+      - { surface: 6, ulx: 0, uly: 0, lrx: 2924, lry: 3875 }
+      - { surface: 7, ulx: 0, uly: 0, lrx: 2964, lry: 3905 }
+    header:
+      title: "Romance"
+      composer: ""
+  - id: "piece-04"
+    kind: "facsimile"
+    preparation: "omr-instruments"
+    path: "sources/piece-04/score.mei"
+    zones:
+      - { surface: 8, ulx: 0, uly: 0, lrx: 2342, lry: 3209 }
+      - { surface: 9, ulx: 0, uly: 0, lrx: 2342, lry: 3209 }
+    header:
+      title: "Verdi"
+      composer: ""
+fragmentation:
+  strategy: "by-piece"
+validation:
+  required_validations: 1
+  pass_threshold: 1
+locking:
+  stale_after_minutes: 1440
+  max_claims_per_person: 10
