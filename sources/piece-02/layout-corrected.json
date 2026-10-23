@@ -291,15 +291,23 @@
 			"last": "i5",
 			"symbol": "bracket",
 			"label": "Holzbläser",
-			"barThru": false
+			"barThru": true
 		},
 		{
 			"id": "g2",
 			"first": "i18",
 			"last": "i18",
 			"symbol": "bracket",
-			"label": "",
-			"barThru": false
+			"label": "Hörner",
+			"barThru": true
+		},
+		{
+			"id": "g3",
+			"first": "i10",
+			"last": "i14",
+			"symbol": "bracket",
+			"label": "Streicher",
+			"barThru": true
 		}
 	],
 	"instrumentsFixed": false,
