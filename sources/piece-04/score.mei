@@ -128,10 +128,11 @@
                      </staffGrp>
                      <staffGrp xml:id="i12" symbol="bracket" bar.thru="true">
                         <label xml:id="label-11">Contrabassi</label>
+                        <labelAbbr xml:id="labelAbbr-6">Cb.</labelAbbr>
                         <instrDef xml:id="instrDef-4"/>
                         <staffDef xml:id="i12-1" n="8" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4">
                            <label xml:id="label-12">Kb</label>
-                           <labelAbbr xml:id="labelAbbr-6">Kb</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-7">Kb</labelAbbr>
                         </staffDef>
                      </staffGrp>
                      <staffGrp xml:id="i6" symbol="bracket" bar.thru="true">
@@ -139,7 +140,7 @@
                         <instrDef xml:id="instrDef-5"/>
                         <staffDef xml:id="i6-2" n="9" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4">
                            <label xml:id="label-14">Kb</label>
-                           <labelAbbr xml:id="labelAbbr-7">Kb</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-8">Kb</labelAbbr>
                         </staffDef>
                      </staffGrp>
                   </staffGrp>
