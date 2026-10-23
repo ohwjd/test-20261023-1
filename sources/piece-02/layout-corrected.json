@@ -203,24 +203,26 @@
 			"name": "Violine",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
-			"staves": [
+			"parts": [
 				{
-					"id": "i10-1",
-					"parts": []
+					"name": "I"
+				},
+				{
+					"name": "II"
 				}
-			]
-		},
-		{
-			"id": "i11",
-			"name": "I",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
+			],
 			"staves": [
 				{
-					"id": "i11-1",
-					"parts": []
+					"id": "i10-2",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i10-3",
+					"parts": [
+						1
+					]
 				}
 			]
 		},
@@ -386,14 +388,14 @@
 					"uly": 2634,
 					"lrx": 2499,
 					"lry": 2714,
-					"staff": "i10-1"
+					"staff": "i10-2"
 				},
 				{
 					"ulx": 549,
 					"uly": 2765,
 					"lrx": 2500,
 					"lry": 2843,
-					"staff": "i11-1"
+					"staff": "i10-3"
 				},
 				{
 					"ulx": 549,
