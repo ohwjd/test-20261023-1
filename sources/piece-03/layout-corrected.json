@@ -80,6 +80,19 @@
 			]
 		},
 		{
+			"id": "i17",
+			"name": "Violons",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i17-1",
+					"parts": []
+				}
+			]
+		},
+		{
 			"id": "i7",
 			"name": "Violons,",
 			"abbr": "",
@@ -301,7 +314,8 @@
 					"ulx": 575,
 					"uly": 1449,
 					"lrx": 2783,
-					"lry": 1517
+					"lry": 1517,
+					"staff": "i17-1"
 				},
 				{
 					"ulx": 575,
