@@ -1,0 +1,579 @@
+{
+	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
+	"instruments": [
+		{
+			"id": "i9",
+			"name": "Fagotti",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i9-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i7",
+			"name": "Corni",
+			"abbr": "Cor.",
+			"grand": false,
+			"parts": [
+				{
+					"name": "Fa"
+				},
+				{
+					"name": "Re"
+				},
+				{
+					"name": "in Re"
+				}
+			],
+			"staves": [
+				{
+					"id": "i7-2",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i7-3",
+					"parts": [
+						1
+					]
+				}
+			]
+		},
+		{
+			"id": "i10",
+			"name": "Violini",
+			"abbr": "Vni.",
+			"grand": false,
+			"parts": [
+				{
+					"name": "II"
+				},
+				{
+					"name": "1"
+				},
+				{
+					"name": "2"
+				},
+				{
+					"name": "I"
+				}
+			],
+			"staves": [
+				{
+					"id": "i10-2",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i10-6",
+					"parts": [
+						3
+					]
+				}
+			]
+		},
+		{
+			"id": "i13",
+			"name": "Viole",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i13-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i11",
+			"name": "Violoncelli",
+			"abbr": "Vc.",
+			"grand": false,
+			"parts": [
+				{
+					"name": "Vc"
+				}
+			],
+			"staves": [
+				{
+					"id": "i11-1",
+					"parts": [
+						0
+					]
+				}
+			]
+		},
+		{
+			"id": "i12",
+			"name": "Contrabassi",
+			"abbr": "Cb.",
+			"grand": false,
+			"parts": [
+				{
+					"name": "Kb"
+				}
+			],
+			"staves": [
+				{
+					"id": "i12-1",
+					"parts": [
+						0
+					]
+				}
+			]
+		}
+	],
+	"groups": [],
+	"instrumentsFixed": true,
+	"pages": [
+		{
+			"image": "../img/08.jpg",
+			"measures": [
+				{
+					"ulx": 478,
+					"uly": 600,
+					"lrx": 835,
+					"lry": 1701
+				},
+				{
+					"ulx": 843,
+					"uly": 600,
+					"lrx": 1037,
+					"lry": 1706
+				},
+				{
+					"ulx": 1045,
+					"uly": 600,
+					"lrx": 1279,
+					"lry": 1707
+				},
+				{
+					"ulx": 1287,
+					"uly": 600,
+					"lrx": 1487,
+					"lry": 1703
+				},
+				{
+					"ulx": 1495,
+					"uly": 601,
+					"lrx": 1808,
+					"lry": 1700
+				},
+				{
+					"ulx": 1818,
+					"uly": 603,
+					"lrx": 2160,
+					"lry": 1698
+				},
+				{
+					"ulx": 257,
+					"uly": 1834,
+					"lrx": 693,
+					"lry": 2190
+				},
+				{
+					"ulx": 703,
+					"uly": 1833,
+					"lrx": 891,
+					"lry": 2187
+				},
+				{
+					"ulx": 898,
+					"uly": 1830,
+					"lrx": 1140,
+					"lry": 2190
+				},
+				{
+					"ulx": 1147,
+					"uly": 1832,
+					"lrx": 1414,
+					"lry": 2193
+				},
+				{
+					"ulx": 1422,
+					"uly": 1837,
+					"lrx": 1646,
+					"lry": 2187
+				},
+				{
+					"ulx": 1657,
+					"uly": 1834,
+					"lrx": 1926,
+					"lry": 2193
+				},
+				{
+					"ulx": 1937,
+					"uly": 1834,
+					"lrx": 2163,
+					"lry": 2198
+				},
+				{
+					"ulx": 255,
+					"uly": 2335,
+					"lrx": 735,
+					"lry": 2973
+				},
+				{
+					"ulx": 744,
+					"uly": 2327,
+					"lrx": 1223,
+					"lry": 2972
+				},
+				{
+					"ulx": 1236,
+					"uly": 2328,
+					"lrx": 1645,
+					"lry": 2972
+				},
+				{
+					"ulx": 1659,
+					"uly": 2330,
+					"lrx": 2165,
+					"lry": 2970
+				}
+			],
+			"staves": [
+				{
+					"ulx": 478,
+					"uly": 600,
+					"lrx": 2158,
+					"lry": 666,
+					"staff": "i9-1"
+				},
+				{
+					"ulx": 475,
+					"uly": 749,
+					"lrx": 2163,
+					"lry": 819,
+					"staff": "i7-3"
+				},
+				{
+					"ulx": 478,
+					"uly": 977,
+					"lrx": 2160,
+					"lry": 982,
+					"staff": "i7-2"
+				},
+				{
+					"ulx": 475,
+					"uly": 1096,
+					"lrx": 2161,
+					"lry": 1171,
+					"staff": "i10-6"
+				},
+				{
+					"ulx": 475,
+					"uly": 1237,
+					"lrx": 2160,
+					"lry": 1303,
+					"staff": "i10-2"
+				},
+				{
+					"ulx": 473,
+					"uly": 1370,
+					"lrx": 2157,
+					"lry": 1437,
+					"staff": "i13-1"
+				},
+				{
+					"ulx": 484,
+					"uly": 1513,
+					"lrx": 2163,
+					"lry": 1578,
+					"staff": "i11-1"
+				},
+				{
+					"ulx": 454,
+					"uly": 1639,
+					"lrx": 2160,
+					"lry": 1705,
+					"staff": "i12-1"
+				},
+				{
+					"ulx": 257,
+					"uly": 1838,
+					"lrx": 2163,
+					"lry": 1901,
+					"staff": "i7-3"
+				},
+				{
+					"ulx": 255,
+					"uly": 1975,
+					"lrx": 2166,
+					"lry": 2040,
+					"staff": "i7-2"
+				},
+				{
+					"ulx": 259,
+					"uly": 2130,
+					"lrx": 2166,
+					"lry": 2198,
+					"staff": "i11-1"
+				},
+				{
+					"ulx": 257,
+					"uly": 2328,
+					"lrx": 2169,
+					"lry": 2396,
+					"staff": "i7-3"
+				},
+				{
+					"ulx": 261,
+					"uly": 2480,
+					"lrx": 2168,
+					"lry": 2552,
+					"staff": "i10-6"
+				},
+				{
+					"ulx": 257,
+					"uly": 2612,
+					"lrx": 2166,
+					"lry": 2676,
+					"staff": "i10-2"
+				},
+				{
+					"ulx": 259,
+					"uly": 2718,
+					"lrx": 2161,
+					"lry": 2783,
+					"staff": "i13-1"
+				},
+				{
+					"ulx": 255,
+					"uly": 2815,
+					"lrx": 2163,
+					"lry": 2874,
+					"staff": "i11-1"
+				},
+				{
+					"ulx": 262,
+					"uly": 2906,
+					"lrx": 2167,
+					"lry": 2972,
+					"staff": "i12-1"
+				}
+			],
+			"grandstaves": []
+		},
+		{
+			"image": "../img/09.jpg",
+			"measures": [
+				{
+					"ulx": 258,
+					"uly": 183,
+					"lrx": 719,
+					"lry": 1073
+				},
+				{
+					"ulx": 738,
+					"uly": 183,
+					"lrx": 1246,
+					"lry": 1073
+				},
+				{
+					"ulx": 1262,
+					"uly": 181,
+					"lrx": 1802,
+					"lry": 1075
+				},
+				{
+					"ulx": 1817,
+					"uly": 176,
+					"lrx": 2173,
+					"lry": 1074
+				},
+				{
+					"ulx": 260,
+					"uly": 1281,
+					"lrx": 693,
+					"lry": 2065
+				},
+				{
+					"ulx": 706,
+					"uly": 1281,
+					"lrx": 1070,
+					"lry": 2065
+				},
+				{
+					"ulx": 1075,
+					"uly": 1279,
+					"lrx": 1294,
+					"lry": 2063
+				},
+				{
+					"ulx": 1302,
+					"uly": 1278,
+					"lrx": 1635,
+					"lry": 2063
+				},
+				{
+					"ulx": 1645,
+					"uly": 1278,
+					"lrx": 2175,
+					"lry": 2063
+				},
+				{
+					"ulx": 252,
+					"uly": 2238,
+					"lrx": 714,
+					"lry": 2952
+				},
+				{
+					"ulx": 730,
+					"uly": 2235,
+					"lrx": 1260,
+					"lry": 2952
+				},
+				{
+					"ulx": 1271,
+					"uly": 2236,
+					"lrx": 1664,
+					"lry": 2953
+				},
+				{
+					"ulx": 1676,
+					"uly": 2239,
+					"lrx": 2173,
+					"lry": 2953
+				}
+			],
+			"staves": [
+				{
+					"ulx": 254,
+					"uly": 184,
+					"lrx": 2179,
+					"lry": 248,
+					"staff": "i7-3"
+				},
+				{
+					"ulx": 257,
+					"uly": 422,
+					"lrx": 2177,
+					"lry": 493,
+					"staff": "i10-6"
+				},
+				{
+					"ulx": 257,
+					"uly": 565,
+					"lrx": 2177,
+					"lry": 635,
+					"staff": "i10-2"
+				},
+				{
+					"ulx": 259,
+					"uly": 705,
+					"lrx": 2173,
+					"lry": 778,
+					"staff": "i13-1"
+				},
+				{
+					"ulx": 261,
+					"uly": 877,
+					"lrx": 2176,
+					"lry": 936,
+					"staff": "i11-1"
+				},
+				{
+					"ulx": 261,
+					"uly": 1006,
+					"lrx": 2172,
+					"lry": 1073,
+					"staff": "i12-1"
+				},
+				{
+					"ulx": 261,
+					"uly": 1278,
+					"lrx": 2180,
+					"lry": 1345,
+					"staff": "i7-3"
+				},
+				{
+					"ulx": 262,
+					"uly": 1472,
+					"lrx": 2175,
+					"lry": 1538,
+					"staff": "i10-6"
+				},
+				{
+					"ulx": 261,
+					"uly": 1591,
+					"lrx": 2178,
+					"lry": 1653,
+					"staff": "i10-2"
+				},
+				{
+					"ulx": 268,
+					"uly": 1713,
+					"lrx": 2176,
+					"lry": 1778,
+					"staff": "i13-1"
+				},
+				{
+					"ulx": 271,
+					"uly": 1859,
+					"lrx": 2177,
+					"lry": 1927,
+					"staff": "i11-1"
+				},
+				{
+					"ulx": 262,
+					"uly": 2000,
+					"lrx": 2176,
+					"lry": 2064,
+					"staff": "i12-1"
+				},
+				{
+					"ulx": 253,
+					"uly": 2236,
+					"lrx": 2172,
+					"lry": 2300,
+					"staff": "i7-3"
+				},
+				{
+					"ulx": 253,
+					"uly": 2416,
+					"lrx": 2177,
+					"lry": 2481,
+					"staff": "i10-6"
+				},
+				{
+					"ulx": 258,
+					"uly": 2535,
+					"lrx": 2179,
+					"lry": 2600,
+					"staff": "i10-2"
+				},
+				{
+					"ulx": 256,
+					"uly": 2657,
+					"lrx": 2178,
+					"lry": 2721,
+					"staff": "i13-1"
+				},
+				{
+					"ulx": 254,
+					"uly": 2783,
+					"lrx": 2175,
+					"lry": 2847,
+					"staff": "i11-1"
+				},
+				{
+					"ulx": 254,
+					"uly": 2890,
+					"lrx": 2176,
+					"lry": 2952,
+					"staff": "i12-1"
+				}
+			],
+			"grandstaves": []
+		}
+	]
+}
