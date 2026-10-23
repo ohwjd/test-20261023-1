@@ -59,7 +59,7 @@
 		{
 			"id": "i16",
 			"name": "Englisch Horn",
-			"abbr": "Klar.",
+			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
@@ -72,7 +72,7 @@
 		{
 			"id": "i17",
 			"name": "Klarinette",
-			"abbr": "",
+			"abbr": "Klar.",
 			"grand": false,
 			"parts": [
 				{
