@@ -112,38 +112,45 @@
                            <layerDef xml:id="layerDef-8" n="2"><label xml:id="label-18">II</label></layerDef>
                         </staffDef>
                      </staffGrp>
-                     <staffDef xml:id="i6-1" n="7" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4">
-                        <label xml:id="label-19">[I F</label>
-                     </staffDef>
+                     <staffGrp xml:id="i18" symbol="bracket" bar.thru="true">
+                        <label xml:id="label-19">Horn in F</label>
+                        <instrDef xml:id="instrDef-5"/>
+                        <staffDef xml:id="i18-2" n="7" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4">
+                           <label xml:id="label-20">I.II</label>
+                           <labelAbbr xml:id="labelAbbr-6">I.II</labelAbbr>
+                           <layerDef xml:id="layerDef-9" n="1"><label xml:id="label-21">I</label></layerDef>
+                           <layerDef xml:id="layerDef-10" n="2"><label xml:id="label-22">II</label></layerDef>
+                        </staffDef>
+                     </staffGrp>
                      <staffDef xml:id="i7-1" n="8" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4">
-                        <label xml:id="label-20">Cymbales antiques h?</label>
+                        <label xml:id="label-23">Cymbales antiques h?</label>
                      </staffDef>
                      <staffGrp xml:id="i8" symbol="brace" bar.thru="true">
-                        <label xml:id="label-21">Harfe</label>
-                        <instrDef xml:id="instrDef-5"/>
+                        <label xml:id="label-24">Harfe</label>
+                        <instrDef xml:id="instrDef-6"/>
                         <staffDef xml:id="i8-1" n="9" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4"/>
                         <staffDef xml:id="i8-2" n="10" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4"/>
                      </staffGrp>
                      <staffGrp xml:id="i9" symbol="brace" bar.thru="true">
-                        <label xml:id="label-22">Harfe II</label>
-                        <instrDef xml:id="instrDef-6"/>
+                        <label xml:id="label-25">Harfe II</label>
+                        <instrDef xml:id="instrDef-7"/>
                         <staffDef xml:id="i9-1" n="11" lines="5" clef.shape="F" clef.line="4" keysig="1f" meter.count="3" meter.unit="4"/>
                         <staffDef xml:id="i9-2" n="12" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4"/>
                      </staffGrp>
                      <staffDef xml:id="i10-1" n="13" lines="5" clef.shape="G" clef.line="2" meter.count="3" meter.unit="4">
-                        <label xml:id="label-23">Violine</label>
+                        <label xml:id="label-26">Violine</label>
                      </staffDef>
                      <staffDef xml:id="i11-1" n="14" lines="5" clef.shape="G" clef.line="2" meter.count="3" meter.unit="4">
-                        <label xml:id="label-24">I</label>
+                        <label xml:id="label-27">I</label>
                      </staffDef>
                      <staffDef xml:id="i12-1" n="15" lines="5" clef.shape="C" clef.line="3" keysig="5s" meter.count="3" meter.unit="4">
-                        <label xml:id="label-25">Viola</label>
+                        <label xml:id="label-28">Viola</label>
                      </staffDef>
                      <staffDef xml:id="i13-1" n="16" lines="5" clef.shape="F" clef.line="4" meter.count="3" meter.unit="4">
-                        <label xml:id="label-26">Violoncello</label>
+                        <label xml:id="label-29">Violoncello</label>
                      </staffDef>
                      <staffDef xml:id="i14-1" n="17" lines="5" clef.shape="F" clef.line="4" meter.count="3" meter.unit="4">
-                        <label xml:id="label-27">Kontrabaß</label>
+                        <label xml:id="label-30">Kontrabaß</label>
                      </staffDef>
                   </staffGrp>
                </scoreDef>

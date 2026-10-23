@@ -116,15 +116,25 @@
 			]
 		},
 		{
-			"id": "i6",
-			"name": "[I F",
+			"id": "i18",
+			"name": "Horn in F",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
 			"staves": [
 				{
-					"id": "i6-1",
-					"parts": []
+					"id": "i18-2",
+					"parts": [
+						0,
+						1
+					]
 				}
 			]
 		},
@@ -314,13 +324,14 @@
 					"uly": 1449,
 					"lrx": 2496,
 					"lry": 1528,
-					"staff": "i6-1"
+					"staff": "i18-2"
 				},
 				{
 					"ulx": 554,
 					"uly": 1582,
 					"lrx": 2494,
-					"lry": 1660
+					"lry": 1660,
+					"staff": "i18-2"
 				},
 				{
 					"ulx": 544,
