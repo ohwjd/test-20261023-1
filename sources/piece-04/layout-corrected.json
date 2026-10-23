@@ -25,6 +25,9 @@
 				},
 				{
 					"name": "Re"
+				},
+				{
+					"name": "in Re"
 				}
 			],
 			"staves": [
@@ -38,6 +41,14 @@
 					"id": "i7-3",
 					"parts": [
 						1
+					]
+				},
+				{
+					"id": "i7-5",
+					"parts": [
+						0,
+						1,
+						2
 					]
 				}
 			]
@@ -124,76 +135,6 @@
 			"staves": [
 				{
 					"id": "i6-2",
-					"parts": [
-						0
-					]
-				}
-			]
-		},
-		{
-			"id": "i1",
-			"name": "FAGOTTI",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i1-1",
-					"parts": []
-				}
-			]
-		},
-		{
-			"id": "i3",
-			"name": "VIOLINI",
-			"abbr": "",
-			"grand": false,
-			"parts": [
-				{
-					"name": "II"
-				}
-			],
-			"staves": [
-				{
-					"id": "i3-1",
-					"parts": [
-						0
-					]
-				}
-			]
-		},
-		{
-			"id": "i2",
-			"name": "CORNI in Re",
-			"abbr": "",
-			"grand": false,
-			"parts": [
-				{
-					"name": "Re"
-				}
-			],
-			"staves": [
-				{
-					"id": "i2-2",
-					"parts": [
-						0
-					]
-				}
-			]
-		},
-		{
-			"id": "i5",
-			"name": "VIOLONCELLI",
-			"abbr": "",
-			"grand": false,
-			"parts": [
-				{
-					"name": "Vc"
-				}
-			],
-			"staves": [
-				{
-					"id": "i5-2",
 					"parts": [
 						0
 					]
@@ -372,28 +313,28 @@
 					"uly": 1838,
 					"lrx": 2163,
 					"lry": 1901,
-					"staff": "i4-1"
+					"staff": "i7-5"
 				},
 				{
 					"ulx": 255,
 					"uly": 1975,
 					"lrx": 2166,
 					"lry": 2040,
-					"staff": "i1-1"
+					"staff": "i9-1"
 				},
 				{
 					"ulx": 259,
 					"uly": 2130,
 					"lrx": 2166,
 					"lry": 2198,
-					"staff": "i3-1"
+					"staff": "i10-2"
 				},
 				{
 					"ulx": 257,
 					"uly": 2328,
 					"lrx": 2169,
 					"lry": 2396,
-					"staff": "i2-2"
+					"staff": "i7-3"
 				},
 				{
 					"ulx": 261,
@@ -407,21 +348,21 @@
 					"uly": 2612,
 					"lrx": 2166,
 					"lry": 2676,
-					"staff": "i5-2"
+					"staff": "i11-1"
 				},
 				{
 					"ulx": 259,
 					"uly": 2718,
 					"lrx": 2161,
 					"lry": 2783,
-					"staff": "i3-1"
+					"staff": "i10-2"
 				},
 				{
 					"ulx": 255,
 					"uly": 2815,
 					"lrx": 2163,
 					"lry": 2874,
-					"staff": "i5-2"
+					"staff": "i11-1"
 				},
 				{
 					"ulx": 262,
@@ -521,14 +462,14 @@
 					"uly": 184,
 					"lrx": 2179,
 					"lry": 248,
-					"staff": "i2-2"
+					"staff": "i7-3"
 				},
 				{
 					"ulx": 257,
 					"uly": 422,
 					"lrx": 2177,
 					"lry": 493,
-					"staff": "i5-2"
+					"staff": "i11-1"
 				},
 				{
 					"ulx": 257,
@@ -542,14 +483,14 @@
 					"uly": 705,
 					"lrx": 2173,
 					"lry": 778,
-					"staff": "i3-1"
+					"staff": "i10-2"
 				},
 				{
 					"ulx": 261,
 					"uly": 877,
 					"lrx": 2176,
 					"lry": 936,
-					"staff": "i5-2"
+					"staff": "i11-1"
 				},
 				{
 					"ulx": 261,
@@ -563,7 +504,7 @@
 					"uly": 1278,
 					"lrx": 2180,
 					"lry": 1345,
-					"staff": "i2-2"
+					"staff": "i7-3"
 				},
 				{
 					"ulx": 262,
@@ -577,14 +518,14 @@
 					"uly": 1591,
 					"lrx": 2178,
 					"lry": 1653,
-					"staff": "i3-1"
+					"staff": "i10-2"
 				},
 				{
 					"ulx": 268,
 					"uly": 1713,
 					"lrx": 2176,
 					"lry": 1778,
-					"staff": "i5-2"
+					"staff": "i11-1"
 				},
 				{
 					"ulx": 271,
@@ -605,7 +546,7 @@
 					"uly": 2236,
 					"lrx": 2172,
 					"lry": 2300,
-					"staff": "i2-2"
+					"staff": "i7-3"
 				},
 				{
 					"ulx": 253,
@@ -626,14 +567,14 @@
 					"uly": 2657,
 					"lrx": 2178,
 					"lry": 2721,
-					"staff": "i3-1"
+					"staff": "i10-2"
 				},
 				{
 					"ulx": 254,
 					"uly": 2783,
 					"lrx": 2175,
 					"lry": 2847,
-					"staff": "i5-2"
+					"staff": "i11-1"
 				},
 				{
 					"ulx": 254,
