@@ -131,7 +131,7 @@
                      <staffDef xml:id="i19-1" n="9" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="3" meter.unit="4">
                         <label xml:id="label-26">Cymbales antiques in e2 un h2</label>
                      </staffDef>
-                     <staffGrp xml:id="i8" symbol="bracket" bar.thru="true">
+                     <staffGrp xml:id="i8" symbol="none" bar.thru="true">
                         <label xml:id="label-27">Harfe</label>
                         <instrDef xml:id="instrDef-6"/>
                         <staffGrp xml:id="i8-2g" symbol="brace" bar.thru="true">
