@@ -47,29 +47,28 @@
 			"name": "Violini",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i10-1",
-					"parts": []
-				}
-			]
-		},
-		{
-			"id": "i3",
-			"name": "VIOLINI",
-			"abbr": "",
-			"grand": false,
 			"parts": [
 				{
 					"name": "II"
+				},
+				{
+					"name": "1"
+				},
+				{
+					"name": "2"
 				}
 			],
 			"staves": [
 				{
-					"id": "i3-1",
+					"id": "i10-3",
 					"parts": [
-						0
+						1
+					]
+				},
+				{
+					"id": "i10-4",
+					"parts": [
+						2
 					]
 				}
 			]
@@ -250,14 +249,14 @@
 					"uly": 1096,
 					"lrx": 2161,
 					"lry": 1171,
-					"staff": "i10-1"
+					"staff": "i10-3"
 				},
 				{
 					"ulx": 475,
 					"uly": 1237,
 					"lrx": 2160,
 					"lry": 1303,
-					"staff": "i3-1"
+					"staff": "i10-4"
 				},
 				{
 					"ulx": 473,
