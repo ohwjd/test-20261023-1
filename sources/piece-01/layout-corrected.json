@@ -1,6 +1,154 @@
 {
 	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
-	"instruments": [],
+	"instruments": [
+		{
+			"id": "i1",
+			"name": "Flöte",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
+			"staves": [
+				{
+					"id": "i1-1",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i1-2",
+					"parts": [
+						1
+					]
+				}
+			]
+		},
+		{
+			"id": "i2",
+			"name": "Oboe I! Klarinette in A II",
+			"abbr": "",
+			"grand": true,
+			"parts": [
+				{
+					"name": "I"
+				}
+			],
+			"staves": [
+				{
+					"id": "i2-1",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i2-2",
+					"parts": [
+						0
+					]
+				}
+			]
+		},
+		{
+			"id": "i3",
+			"name": "Hom mn F",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i3-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i4",
+			"name": "II",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i4-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i5",
+			"name": "Trompete ın F I",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "II"
+				}
+			],
+			"staves": [
+				{
+					"id": "i5-1",
+					"parts": [
+						0
+					]
+				}
+			]
+		},
+		{
+			"id": "i6",
+			"name": "Posaune",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "II"
+				}
+			],
+			"staves": [
+				{
+					"id": "i6-1",
+					"parts": [
+						0
+					]
+				}
+			]
+		},
+		{
+			"id": "i7",
+			"name": "Pauken in A, e",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i7-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i8",
+			"name": "Kleine Trommel Große Trommel Glocke in E",
+			"abbr": "",
+			"grand": true,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i8-1",
+					"parts": []
+				},
+				{
+					"id": "i8-2",
+					"parts": []
+				}
+			]
+		}
+	],
 	"groups": [],
 	"instrumentsFixed": false,
 	"pages": [
@@ -97,67 +245,78 @@
 					"ulx": 477,
 					"uly": 598,
 					"lrx": 2334,
-					"lry": 662
+					"lry": 662,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 475,
 					"uly": 729,
 					"lrx": 2336,
-					"lry": 795
+					"lry": 795,
+					"staff": "i1-2"
 				},
 				{
 					"ulx": 477,
 					"uly": 883,
 					"lrx": 2336,
-					"lry": 962
+					"lry": 962,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 474,
 					"uly": 1032,
 					"lrx": 2336,
-					"lry": 1116
+					"lry": 1116,
+					"staff": "i2-2"
 				},
 				{
 					"ulx": 464,
 					"uly": 1349,
 					"lrx": 2335,
-					"lry": 1424
+					"lry": 1424,
+					"staff": "i3-1"
 				},
 				{
 					"ulx": 473,
 					"uly": 1477,
 					"lrx": 2335,
-					"lry": 1544
+					"lry": 1544,
+					"staff": "i4-1"
 				},
 				{
 					"ulx": 473,
 					"uly": 1629,
 					"lrx": 2337,
-					"lry": 1701
+					"lry": 1701,
+					"staff": "i5-1"
 				},
 				{
 					"ulx": 484,
 					"uly": 1791,
 					"lrx": 2337,
-					"lry": 1866
+					"lry": 1866,
+					"staff": "i6-1"
 				},
 				{
 					"ulx": 478,
 					"uly": 1951,
 					"lrx": 2339,
-					"lry": 2024
+					"lry": 2024,
+					"staff": "i7-1"
 				},
 				{
 					"ulx": 480,
 					"uly": 2089,
 					"lrx": 2340,
-					"lry": 2160
+					"lry": 2160,
+					"staff": "i8-1"
 				},
 				{
 					"ulx": 479,
 					"uly": 2225,
 					"lrx": 2340,
-					"lry": 2296
+					"lry": 2296,
+					"staff": "i8-2"
 				},
 				{
 					"ulx": 477,
