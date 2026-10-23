@@ -102,6 +102,7 @@
                      </staffDef>
                      <staffDef xml:id="i15-1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                         <label xml:id="label-3">Clarinettes: en Si b</label>
+                        <labelAbbr xml:id="labelAbbr-1">Clar</labelAbbr>
                      </staffDef>
                      <staffDef xml:id="i16-1" n="4" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
                         <label xml:id="label-4">Bassons</label>
@@ -111,11 +112,11 @@
                         <instrDef xml:id="instrDef-1"/>
                         <staffDef xml:id="i21-2" n="5" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                            <label xml:id="label-6">LA</label>
-                           <labelAbbr xml:id="labelAbbr-1">LA</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-2">LA</labelAbbr>
                         </staffDef>
                         <staffDef xml:id="i21-3" n="6" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                            <label xml:id="label-7">MI</label>
-                           <labelAbbr xml:id="labelAbbr-2">MI</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-3">MI</labelAbbr>
                         </staffDef>
                      </staffGrp>
                      <staffGrp xml:id="i17" symbol="bracket" bar.thru="true">
@@ -123,11 +124,11 @@
                         <instrDef xml:id="instrDef-2"/>
                         <staffDef xml:id="i17-2" n="7" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                            <label xml:id="label-9">1</label>
-                           <labelAbbr xml:id="labelAbbr-3">1</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-4">1</labelAbbr>
                         </staffDef>
                         <staffDef xml:id="i17-3" n="8" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                            <label xml:id="label-10">2</label>
-                           <labelAbbr xml:id="labelAbbr-4">2</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-5">2</labelAbbr>
                         </staffDef>
                      </staffGrp>
                      <staffDef xml:id="i18-1" n="9" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
