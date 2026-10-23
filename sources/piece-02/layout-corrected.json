@@ -290,6 +290,14 @@
 			"first": "i15",
 			"last": "i5",
 			"symbol": "bracket",
+			"label": "Holzbläser",
+			"barThru": false
+		},
+		{
+			"id": "g2",
+			"first": "i18",
+			"last": "i18",
+			"symbol": "bracket",
 			"label": "",
 			"barThru": false
 		}
