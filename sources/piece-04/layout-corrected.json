@@ -280,14 +280,7 @@
 					"lry": 2972
 				}
 			],
-			"grandstaves": [
-				{
-					"ulx": 475,
-					"uly": 747,
-					"lrx": 2163,
-					"lry": 988
-				}
-			]
+			"grandstaves": []
 		},
 		{
 			"image": "../img/09.jpg",
