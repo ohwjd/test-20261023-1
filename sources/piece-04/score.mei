@@ -93,49 +93,50 @@
                      </staffDef>
                      <staffGrp xml:id="i7" symbol="bracket" bar.thru="true">
                         <label xml:id="label-2">Corni</label>
+                        <labelAbbr xml:id="labelAbbr-1">Cor.</labelAbbr>
                         <instrDef xml:id="instrDef-1"/>
                         <staffDef xml:id="i7-2" n="2" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="4" meter.unit="4">
                            <label xml:id="label-3">Fa</label>
-                           <labelAbbr xml:id="labelAbbr-1">Fa</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-2">Fa</labelAbbr>
                         </staffDef>
                         <staffDef xml:id="i7-3" n="3" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="4" meter.unit="4">
                            <label xml:id="label-4">Re</label>
-                           <labelAbbr xml:id="labelAbbr-2">Re</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-3">Re</labelAbbr>
                         </staffDef>
                      </staffGrp>
                      <staffGrp xml:id="i10" symbol="bracket" bar.thru="true">
                         <label xml:id="label-5">Violini</label>
-                        <labelAbbr xml:id="labelAbbr-3">Vni.</labelAbbr>
+                        <labelAbbr xml:id="labelAbbr-4">Vni.</labelAbbr>
                         <instrDef xml:id="instrDef-2"/>
                         <staffDef xml:id="i10-3" n="4" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
                            <label xml:id="label-6">1</label>
-                           <labelAbbr xml:id="labelAbbr-4">1</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-5">1</labelAbbr>
                         </staffDef>
                         <staffDef xml:id="i10-4" n="5" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
                            <label xml:id="label-7">2</label>
-                           <labelAbbr xml:id="labelAbbr-5">2</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-6">2</labelAbbr>
                         </staffDef>
                      </staffGrp>
                      <staffDef xml:id="i4-1" n="6" lines="5" clef.shape="C" clef.line="3" meter.count="4" meter.unit="4">
                         <label xml:id="label-8">VIOLE</label>
-                        <labelAbbr xml:id="labelAbbr-6">Vle.</labelAbbr>
+                        <labelAbbr xml:id="labelAbbr-7">Vle.</labelAbbr>
                      </staffDef>
                      <staffGrp xml:id="i11" symbol="bracket" bar.thru="true">
                         <label xml:id="label-9">Violoncelli</label>
-                        <labelAbbr xml:id="labelAbbr-7">Vc.</labelAbbr>
+                        <labelAbbr xml:id="labelAbbr-8">Vc.</labelAbbr>
                         <instrDef xml:id="instrDef-3"/>
                         <staffDef xml:id="i11-1" n="7" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4">
                            <label xml:id="label-10">Vc</label>
-                           <labelAbbr xml:id="labelAbbr-8">Vc</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-9">Vc</labelAbbr>
                         </staffDef>
                      </staffGrp>
                      <staffGrp xml:id="i12" symbol="bracket" bar.thru="true">
                         <label xml:id="label-11">Contrabassi</label>
-                        <labelAbbr xml:id="labelAbbr-9">Cb.</labelAbbr>
+                        <labelAbbr xml:id="labelAbbr-10">Cb.</labelAbbr>
                         <instrDef xml:id="instrDef-4"/>
                         <staffDef xml:id="i12-1" n="8" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4">
                            <label xml:id="label-12">Kb</label>
-                           <labelAbbr xml:id="labelAbbr-10">Kb</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-11">Kb</labelAbbr>
                         </staffDef>
                      </staffGrp>
                      <staffGrp xml:id="i6" symbol="bracket" bar.thru="true">
@@ -143,7 +144,7 @@
                         <instrDef xml:id="instrDef-5"/>
                         <staffDef xml:id="i6-2" n="9" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4">
                            <label xml:id="label-14">Kb</label>
-                           <labelAbbr xml:id="labelAbbr-11">Kb</labelAbbr>
+                           <labelAbbr xml:id="labelAbbr-12">Kb</labelAbbr>
                         </staffDef>
                      </staffGrp>
                   </staffGrp>
