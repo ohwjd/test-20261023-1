@@ -130,8 +130,8 @@
                      <staffDef xml:id="i9-1" n="10" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                         <label xml:id="label-11">NADIR</label>
                      </staffDef>
-                     <staffDef xml:id="i10-1" n="11" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
-                        <label xml:id="label-12">Violoncelles,</label>
+                     <staffDef xml:id="i19-1" n="11" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
+                        <label xml:id="label-12">Violoncelles</label>
                      </staffDef>
                      <staffDef xml:id="i11-1" n="12" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
                         <label xml:id="label-13">C. ‘Basses</label>

@@ -134,14 +134,14 @@
 			]
 		},
 		{
-			"id": "i10",
-			"name": "Violoncelles,",
+			"id": "i19",
+			"name": "Violoncelles",
 			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i10-1",
+					"id": "i19-1",
 					"parts": []
 				}
 			]
@@ -345,7 +345,7 @@
 					"uly": 2028,
 					"lrx": 2790,
 					"lry": 2099,
-					"staff": "i10-1"
+					"staff": "i19-1"
 				},
 				{
 					"ulx": 541,
