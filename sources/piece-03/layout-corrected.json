@@ -1,6 +1,150 @@
 {
 	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
-	"instruments": [],
+	"instruments": [
+		{
+			"id": "i1",
+			"name": "Flütes,",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i1-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i2",
+			"name": "Cor Anglats",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i2-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i3",
+			"name": "Clarınettes: en b",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i3-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i4",
+			"name": "Bassons,",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i4-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i5",
+			"name": "Cors en LA",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i5-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i6",
+			"name": "Cors en MI",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i6-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i7",
+			"name": "Violons,",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i7-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i8",
+			"name": "Altos,",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i8-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i9",
+			"name": "NADIR",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i9-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i10",
+			"name": "Violoncelles,",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i10-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i11",
+			"name": "C. ‘Basses",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i11-1",
+					"parts": []
+				}
+			]
+		}
+	],
 	"groups": [],
 	"instrumentsFixed": false,
 	"pages": [
@@ -115,37 +259,43 @@
 					"ulx": 573,
 					"uly": 581,
 					"lrx": 2793,
-					"lry": 642
+					"lry": 642,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 575,
 					"uly": 722,
 					"lrx": 2784,
-					"lry": 789
+					"lry": 789,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 574,
 					"uly": 866,
 					"lrx": 2796,
-					"lry": 936
+					"lry": 936,
+					"staff": "i3-1"
 				},
 				{
 					"ulx": 569,
 					"uly": 1016,
 					"lrx": 2794,
-					"lry": 1089
+					"lry": 1089,
+					"staff": "i4-1"
 				},
 				{
 					"ulx": 574,
 					"uly": 1159,
 					"lrx": 2798,
-					"lry": 1228
+					"lry": 1228,
+					"staff": "i5-1"
 				},
 				{
 					"ulx": 572,
 					"uly": 1304,
 					"lrx": 2790,
-					"lry": 1371
+					"lry": 1371,
+					"staff": "i6-1"
 				},
 				{
 					"ulx": 575,
@@ -157,31 +307,36 @@
 					"ulx": 575,
 					"uly": 1591,
 					"lrx": 2785,
-					"lry": 1662
+					"lry": 1662,
+					"staff": "i7-1"
 				},
 				{
 					"ulx": 576,
 					"uly": 1737,
 					"lrx": 2788,
-					"lry": 1807
+					"lry": 1807,
+					"staff": "i8-1"
 				},
 				{
 					"ulx": 576,
 					"uly": 1883,
 					"lrx": 2787,
-					"lry": 1953
+					"lry": 1953,
+					"staff": "i9-1"
 				},
 				{
 					"ulx": 576,
 					"uly": 2028,
 					"lrx": 2790,
-					"lry": 2099
+					"lry": 2099,
+					"staff": "i10-1"
 				},
 				{
 					"ulx": 541,
 					"uly": 2169,
 					"lrx": 2786,
-					"lry": 2243
+					"lry": 2243,
+					"staff": "i11-1"
 				},
 				{
 					"ulx": 294,
