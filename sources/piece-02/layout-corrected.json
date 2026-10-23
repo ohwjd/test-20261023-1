@@ -264,10 +264,27 @@
 					"parts": []
 				}
 			]
+		},
+		{
+			"id": "i8",
+			"name": "Harfe",
+			"abbr": "",
+			"grand": true,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i8-1",
+					"parts": []
+				},
+				{
+					"id": "i8-2",
+					"parts": []
+				}
+			]
 		}
 	],
 	"groups": [],
-	"instrumentsFixed": false,
+	"instrumentsFixed": true,
 	"pages": [
 		{
 			"image": "../img/04.jpg",
@@ -467,85 +484,99 @@
 					"ulx": 374,
 					"uly": 295,
 					"lrx": 2503,
-					"lry": 398
+					"lry": 398,
+					"staff": "i15-3"
 				},
 				{
 					"ulx": 369,
 					"uly": 497,
 					"lrx": 2497,
-					"lry": 605
+					"lry": 605,
+					"staff": "i2-2"
 				},
 				{
 					"ulx": 360,
 					"uly": 702,
 					"lrx": 2494,
-					"lry": 800
+					"lry": 800,
+					"staff": "i17-2"
 				},
 				{
 					"ulx": 372,
 					"uly": 958,
 					"lrx": 2495,
-					"lry": 1060
+					"lry": 1060,
+					"staff": "i18-2"
 				},
 				{
 					"ulx": 368,
 					"uly": 1153,
 					"lrx": 2494,
-					"lry": 1241
+					"lry": 1241,
+					"staff": "i5-2"
 				},
 				{
 					"ulx": 372,
 					"uly": 1379,
 					"lrx": 2492,
-					"lry": 1476
+					"lry": 1476,
+					"staff": "i20-1"
 				},
 				{
 					"ulx": 377,
 					"uly": 1584,
 					"lrx": 2497,
-					"lry": 1680
+					"lry": 1680,
+					"staff": "i20-2"
 				},
 				{
 					"ulx": 377,
 					"uly": 1820,
 					"lrx": 2492,
-					"lry": 1901
+					"lry": 1901,
+					"staff": "i8-1"
 				},
 				{
 					"ulx": 376,
 					"uly": 2017,
 					"lrx": 2492,
-					"lry": 2100
+					"lry": 2100,
+					"staff": "i8-2"
 				},
 				{
 					"ulx": 370,
 					"uly": 2332,
 					"lrx": 2493,
-					"lry": 2428
+					"lry": 2428,
+					"staff": "i10-2"
 				},
 				{
 					"ulx": 370,
 					"uly": 2531,
 					"lrx": 2496,
-					"lry": 2631
+					"lry": 2631,
+					"staff": "i10-3"
 				},
 				{
 					"ulx": 371,
 					"uly": 2761,
 					"lrx": 2497,
-					"lry": 2852
+					"lry": 2852,
+					"staff": "i12-1"
 				},
 				{
 					"ulx": 370,
 					"uly": 2988,
 					"lrx": 2491,
-					"lry": 3078
+					"lry": 3078,
+					"staff": "i13-1"
 				},
 				{
 					"ulx": 368,
 					"uly": 3185,
 					"lrx": 2492,
-					"lry": 3286
+					"lry": 3286,
+					"staff": "i14-1"
 				}
 			],
 			"grandstaves": [
