@@ -238,14 +238,7 @@
 					"lry": 3596
 				}
 			],
-			"grandstaves": [
-				{
-					"ulx": 292,
-					"uly": 3378,
-					"lrx": 2785,
-					"lry": 3596
-				}
-			]
+			"grandstaves": []
 		},
 		{
 			"image": "../img/07.jpg",
@@ -481,14 +474,7 @@
 					"lry": 3590
 				}
 			],
-			"grandstaves": [
-				{
-					"ulx": 271,
-					"uly": 2313,
-					"lrx": 2767,
-					"lry": 2592
-				}
-			]
+			"grandstaves": []
 		}
 	]
 }
