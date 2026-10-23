@@ -84,36 +84,38 @@
 			"name": "Violons",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "1"
+				},
+				{
+					"name": "2"
+				}
+			],
 			"staves": [
 				{
-					"id": "i17-1",
-					"parts": []
+					"id": "i17-2",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i17-3",
+					"parts": [
+						1
+					]
 				}
 			]
 		},
 		{
-			"id": "i7",
-			"name": "Violons,",
+			"id": "i18",
+			"name": "Altos",
 			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i7-1",
-					"parts": []
-				}
-			]
-		},
-		{
-			"id": "i8",
-			"name": "Altos,",
-			"abbr": "",
-			"grand": false,
-			"parts": [],
-			"staves": [
-				{
-					"id": "i8-1",
+					"id": "i18-1",
 					"parts": []
 				}
 			]
@@ -315,21 +317,21 @@
 					"uly": 1449,
 					"lrx": 2783,
 					"lry": 1517,
-					"staff": "i17-1"
+					"staff": "i17-2"
 				},
 				{
 					"ulx": 575,
 					"uly": 1591,
 					"lrx": 2785,
 					"lry": 1662,
-					"staff": "i7-1"
+					"staff": "i17-3"
 				},
 				{
 					"ulx": 576,
 					"uly": 1737,
 					"lrx": 2788,
 					"lry": 1807,
-					"staff": "i8-1"
+					"staff": "i18-1"
 				},
 				{
 					"ulx": 576,

@@ -112,23 +112,29 @@
                      <staffDef xml:id="i6-1" n="6" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                         <label xml:id="label-6">Cors en MI</label>
                      </staffDef>
-                     <staffDef xml:id="i17-1" n="7" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
+                     <staffGrp xml:id="i17" symbol="bracket" bar.thru="true">
                         <label xml:id="label-7">Violons</label>
-                     </staffDef>
-                     <staffDef xml:id="i7-1" n="8" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
-                        <label xml:id="label-8">Violons,</label>
-                     </staffDef>
-                     <staffDef xml:id="i8-1" n="9" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
-                        <label xml:id="label-9">Altos,</label>
+                        <instrDef xml:id="instrDef-1"/>
+                        <staffDef xml:id="i17-2" n="7" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
+                           <label xml:id="label-8">1</label>
+                           <labelAbbr xml:id="labelAbbr-1">1</labelAbbr>
+                        </staffDef>
+                        <staffDef xml:id="i17-3" n="8" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
+                           <label xml:id="label-9">2</label>
+                           <labelAbbr xml:id="labelAbbr-2">2</labelAbbr>
+                        </staffDef>
+                     </staffGrp>
+                     <staffDef xml:id="i18-1" n="9" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
+                        <label xml:id="label-10">Altos</label>
                      </staffDef>
                      <staffDef xml:id="i9-1" n="10" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
-                        <label xml:id="label-10">NADIR</label>
+                        <label xml:id="label-11">NADIR</label>
                      </staffDef>
                      <staffDef xml:id="i10-1" n="11" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
-                        <label xml:id="label-11">Violoncelles,</label>
+                        <label xml:id="label-12">Violoncelles,</label>
                      </staffDef>
                      <staffDef xml:id="i11-1" n="12" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
-                        <label xml:id="label-12">C. ‘Basses</label>
+                        <label xml:id="label-13">C. ‘Basses</label>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
