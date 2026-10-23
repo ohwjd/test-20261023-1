@@ -147,14 +147,14 @@
 			]
 		},
 		{
-			"id": "i11",
-			"name": "C. ‘Basses",
+			"id": "i20",
+			"name": "C. Basses",
 			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i11-1",
+					"id": "i20-1",
 					"parts": []
 				}
 			]
@@ -352,7 +352,7 @@
 					"uly": 2169,
 					"lrx": 2786,
 					"lry": 2243,
-					"staff": "i11-1"
+					"staff": "i20-1"
 				},
 				{
 					"ulx": 294,
