@@ -109,6 +109,25 @@
 			]
 		},
 		{
+			"id": "i12",
+			"name": "Contrabassi",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "Kb"
+				}
+			],
+			"staves": [
+				{
+					"id": "i12-1",
+					"parts": [
+						0
+					]
+				}
+			]
+		},
+		{
 			"id": "i6",
 			"name": "CONTRABBASSI",
 			"abbr": "",
@@ -292,7 +311,7 @@
 					"uly": 1639,
 					"lrx": 2160,
 					"lry": 1705,
-					"staff": "i6-2"
+					"staff": "i12-1"
 				},
 				{
 					"ulx": 257,
