@@ -152,14 +152,14 @@
 			]
 		},
 		{
-			"id": "i7",
-			"name": "Cymbales antiques h?",
+			"id": "i19",
+			"name": "Cymbales antiques in e2 un h2",
 			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i7-1",
+					"id": "i19-1",
 					"parts": []
 				}
 			]
@@ -351,7 +351,7 @@
 					"uly": 1728,
 					"lrx": 2494,
 					"lry": 1807,
-					"staff": "i7-1"
+					"staff": "i19-1"
 				},
 				{
 					"ulx": 540,
