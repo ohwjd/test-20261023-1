@@ -1,0 +1,681 @@
+{
+	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
+	"instruments": [
+		{
+			"id": "i13",
+			"name": "Flutes",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i13-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i14",
+			"name": "Cor Anglais",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i14-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i15",
+			"name": "Clarinettes: en Si b",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i15-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i16",
+			"name": "Bassons",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i16-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i21",
+			"name": "Cors",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "LA"
+				},
+				{
+					"name": "MI"
+				}
+			],
+			"staves": [
+				{
+					"id": "i21-2",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i21-3",
+					"parts": [
+						1
+					]
+				}
+			]
+		},
+		{
+			"id": "i17",
+			"name": "Violons",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "1"
+				},
+				{
+					"name": "2"
+				}
+			],
+			"staves": [
+				{
+					"id": "i17-2",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i17-3",
+					"parts": [
+						1
+					]
+				}
+			]
+		},
+		{
+			"id": "i18",
+			"name": "Altos",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i18-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i9",
+			"name": "NADIR",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i9-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i19",
+			"name": "Violoncelles",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i19-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i20",
+			"name": "C. Basses",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i20-1",
+					"parts": []
+				}
+			]
+		}
+	],
+	"groups": [],
+	"instrumentsFixed": true,
+	"pages": [
+		{
+			"image": "../img/06.jpg",
+			"measures": [
+				{
+					"ulx": 573,
+					"uly": 588,
+					"lrx": 897,
+					"lry": 2240
+				},
+				{
+					"ulx": 908,
+					"uly": 596,
+					"lrx": 1146,
+					"lry": 2243
+				},
+				{
+					"ulx": 1156,
+					"uly": 598,
+					"lrx": 1388,
+					"lry": 2245
+				},
+				{
+					"ulx": 1397,
+					"uly": 582,
+					"lrx": 1640,
+					"lry": 2244
+				},
+				{
+					"ulx": 1653,
+					"uly": 581,
+					"lrx": 1877,
+					"lry": 2241
+				},
+				{
+					"ulx": 1892,
+					"uly": 577,
+					"lrx": 2097,
+					"lry": 2243
+				},
+				{
+					"ulx": 2109,
+					"uly": 581,
+					"lrx": 2324,
+					"lry": 2241
+				},
+				{
+					"ulx": 2334,
+					"uly": 573,
+					"lrx": 2564,
+					"lry": 2241
+				},
+				{
+					"ulx": 2571,
+					"uly": 575,
+					"lrx": 2787,
+					"lry": 2243
+				},
+				{
+					"ulx": 296,
+					"uly": 2361,
+					"lrx": 624,
+					"lry": 3597
+				},
+				{
+					"ulx": 630,
+					"uly": 2369,
+					"lrx": 935,
+					"lry": 3599
+				},
+				{
+					"ulx": 945,
+					"uly": 2370,
+					"lrx": 1220,
+					"lry": 3600
+				},
+				{
+					"ulx": 1224,
+					"uly": 2373,
+					"lrx": 1523,
+					"lry": 3598
+				},
+				{
+					"ulx": 1530,
+					"uly": 2370,
+					"lrx": 1838,
+					"lry": 3598
+				},
+				{
+					"ulx": 1843,
+					"uly": 2369,
+					"lrx": 2152,
+					"lry": 3599
+				},
+				{
+					"ulx": 2159,
+					"uly": 2366,
+					"lrx": 2474,
+					"lry": 3598
+				},
+				{
+					"ulx": 2478,
+					"uly": 2368,
+					"lrx": 2787,
+					"lry": 3599
+				}
+			],
+			"staves": [
+				{
+					"ulx": 573,
+					"uly": 581,
+					"lrx": 2793,
+					"lry": 642,
+					"staff": "i13-1"
+				},
+				{
+					"ulx": 575,
+					"uly": 722,
+					"lrx": 2784,
+					"lry": 789,
+					"staff": "i14-1"
+				},
+				{
+					"ulx": 574,
+					"uly": 866,
+					"lrx": 2796,
+					"lry": 936,
+					"staff": "i15-1"
+				},
+				{
+					"ulx": 569,
+					"uly": 1016,
+					"lrx": 2794,
+					"lry": 1089,
+					"staff": "i16-1"
+				},
+				{
+					"ulx": 574,
+					"uly": 1159,
+					"lrx": 2798,
+					"lry": 1228,
+					"staff": "i21-2"
+				},
+				{
+					"ulx": 572,
+					"uly": 1304,
+					"lrx": 2790,
+					"lry": 1371,
+					"staff": "i21-3"
+				},
+				{
+					"ulx": 575,
+					"uly": 1449,
+					"lrx": 2783,
+					"lry": 1517,
+					"staff": "i17-2"
+				},
+				{
+					"ulx": 575,
+					"uly": 1591,
+					"lrx": 2785,
+					"lry": 1662,
+					"staff": "i17-3"
+				},
+				{
+					"ulx": 576,
+					"uly": 1737,
+					"lrx": 2788,
+					"lry": 1807,
+					"staff": "i18-1"
+				},
+				{
+					"ulx": 576,
+					"uly": 1883,
+					"lrx": 2787,
+					"lry": 1953,
+					"staff": "i9-1"
+				},
+				{
+					"ulx": 576,
+					"uly": 2028,
+					"lrx": 2790,
+					"lry": 2099,
+					"staff": "i19-1"
+				},
+				{
+					"ulx": 541,
+					"uly": 2169,
+					"lrx": 2786,
+					"lry": 2243,
+					"staff": "i20-1"
+				},
+				{
+					"ulx": 294,
+					"uly": 2364,
+					"lrx": 2786,
+					"lry": 2435,
+					"staff": "i14-1"
+				},
+				{
+					"ulx": 279,
+					"uly": 2509,
+					"lrx": 2788,
+					"lry": 2577,
+					"staff": "i15-1"
+				},
+				{
+					"ulx": 285,
+					"uly": 2660,
+					"lrx": 2789,
+					"lry": 2723,
+					"staff": "i21-3"
+				},
+				{
+					"ulx": 277,
+					"uly": 2803,
+					"lrx": 2787,
+					"lry": 2870,
+					"staff": "i17-2"
+				},
+				{
+					"ulx": 289,
+					"uly": 2946,
+					"lrx": 2792,
+					"lry": 3011,
+					"staff": "i17-3"
+				},
+				{
+					"ulx": 282,
+					"uly": 3090,
+					"lrx": 2790,
+					"lry": 3160,
+					"staff": "i18-1"
+				},
+				{
+					"ulx": 294,
+					"uly": 3236,
+					"lrx": 2791,
+					"lry": 3305,
+					"staff": "i9-1"
+				},
+				{
+					"ulx": 290,
+					"uly": 3380,
+					"lrx": 2789,
+					"lry": 3450,
+					"staff": "i19-1"
+				},
+				{
+					"ulx": 294,
+					"uly": 3526,
+					"lrx": 2783,
+					"lry": 3596,
+					"staff": "i20-1"
+				}
+			],
+			"grandstaves": []
+		},
+		{
+			"image": "../img/07.jpg",
+			"measures": [
+				{
+					"ulx": 280,
+					"uly": 385,
+					"lrx": 611,
+					"lry": 1834
+				},
+				{
+					"ulx": 624,
+					"uly": 389,
+					"lrx": 822,
+					"lry": 1830
+				},
+				{
+					"ulx": 834,
+					"uly": 391,
+					"lrx": 1061,
+					"lry": 1828
+				},
+				{
+					"ulx": 1078,
+					"uly": 393,
+					"lrx": 1287,
+					"lry": 1829
+				},
+				{
+					"ulx": 1300,
+					"uly": 392,
+					"lrx": 1549,
+					"lry": 1827
+				},
+				{
+					"ulx": 1573,
+					"uly": 387,
+					"lrx": 1793,
+					"lry": 1832
+				},
+				{
+					"ulx": 1808,
+					"uly": 384,
+					"lrx": 2063,
+					"lry": 1833
+				},
+				{
+					"ulx": 2077,
+					"uly": 381,
+					"lrx": 2295,
+					"lry": 1830
+				},
+				{
+					"ulx": 2308,
+					"uly": 387,
+					"lrx": 2534,
+					"lry": 1828
+				},
+				{
+					"ulx": 2547,
+					"uly": 385,
+					"lrx": 2765,
+					"lry": 1833
+				},
+				{
+					"ulx": 269,
+					"uly": 2001,
+					"lrx": 611,
+					"lry": 3605
+				},
+				{
+					"ulx": 625,
+					"uly": 2002,
+					"lrx": 862,
+					"lry": 3596
+				},
+				{
+					"ulx": 877,
+					"uly": 2007,
+					"lrx": 1138,
+					"lry": 3591
+				},
+				{
+					"ulx": 1148,
+					"uly": 2004,
+					"lrx": 1380,
+					"lry": 3592
+				},
+				{
+					"ulx": 1397,
+					"uly": 2004,
+					"lrx": 1656,
+					"lry": 3594
+				},
+				{
+					"ulx": 1668,
+					"uly": 2004,
+					"lrx": 1901,
+					"lry": 3593
+				},
+				{
+					"ulx": 1923,
+					"uly": 2001,
+					"lrx": 2188,
+					"lry": 3593
+				},
+				{
+					"ulx": 2200,
+					"uly": 2005,
+					"lrx": 2442,
+					"lry": 3592
+				},
+				{
+					"ulx": 2455,
+					"uly": 2010,
+					"lrx": 2762,
+					"lry": 3599
+				}
+			],
+			"staves": [
+				{
+					"ulx": 282,
+					"uly": 388,
+					"lrx": 2768,
+					"lry": 459,
+					"staff": "i14-1"
+				},
+				{
+					"ulx": 284,
+					"uly": 569,
+					"lrx": 2763,
+					"lry": 626,
+					"staff": "i21-2"
+				},
+				{
+					"ulx": 289,
+					"uly": 731,
+					"lrx": 2753,
+					"lry": 800,
+					"staff": "i21-3"
+				},
+				{
+					"ulx": 275,
+					"uly": 905,
+					"lrx": 2769,
+					"lry": 973,
+					"staff": "i17-2"
+				},
+				{
+					"ulx": 277,
+					"uly": 1079,
+					"lrx": 2767,
+					"lry": 1149,
+					"staff": "i17-3"
+				},
+				{
+					"ulx": 277,
+					"uly": 1250,
+					"lrx": 2765,
+					"lry": 1322,
+					"staff": "i18-1"
+				},
+				{
+					"ulx": 281,
+					"uly": 1422,
+					"lrx": 2764,
+					"lry": 1491,
+					"staff": "i9-1"
+				},
+				{
+					"ulx": 276,
+					"uly": 1588,
+					"lrx": 2774,
+					"lry": 1655,
+					"staff": "i19-1"
+				},
+				{
+					"ulx": 273,
+					"uly": 1764,
+					"lrx": 2772,
+					"lry": 1826,
+					"staff": "i20-1"
+				},
+				{
+					"ulx": 283,
+					"uly": 1989,
+					"lrx": 2764,
+					"lry": 2059,
+					"staff": "i14-1"
+				},
+				{
+					"ulx": 273,
+					"uly": 2159,
+					"lrx": 2764,
+					"lry": 2230,
+					"staff": "i15-1"
+				},
+				{
+					"ulx": 281,
+					"uly": 2332,
+					"lrx": 2762,
+					"lry": 2397,
+					"staff": "i21-2"
+				},
+				{
+					"ulx": 272,
+					"uly": 2498,
+					"lrx": 2763,
+					"lry": 2571,
+					"staff": "i21-3"
+				},
+				{
+					"ulx": 272,
+					"uly": 2667,
+					"lrx": 2767,
+					"lry": 2741,
+					"staff": "i17-2"
+				},
+				{
+					"ulx": 272,
+					"uly": 2845,
+					"lrx": 2758,
+					"lry": 2911,
+					"staff": "i17-3"
+				},
+				{
+					"ulx": 266,
+					"uly": 3014,
+					"lrx": 2763,
+					"lry": 3079,
+					"staff": "i18-1"
+				},
+				{
+					"ulx": 266,
+					"uly": 3184,
+					"lrx": 2763,
+					"lry": 3253,
+					"staff": "i9-1"
+				},
+				{
+					"ulx": 264,
+					"uly": 3354,
+					"lrx": 2752,
+					"lry": 3426,
+					"staff": "i19-1"
+				},
+				{
+					"ulx": 265,
+					"uly": 3528,
+					"lrx": 2764,
+					"lry": 3590,
+					"staff": "i20-1"
+				}
+			],
+			"grandstaves": []
+		}
+	]
+}
