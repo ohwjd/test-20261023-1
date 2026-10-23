@@ -94,37 +94,37 @@
             <score xml:id="score-1">
                <scoreDef xml:id="scoreDef-1" optimize="true">
                   <staffGrp xml:id="staffGrp-1">
-                     <staffDef xml:id="i1-1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                        <label xml:id="label-1">Flütes,</label>
+                     <staffDef xml:id="i13-1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
+                        <label xml:id="label-1">Flutes</label>
                      </staffDef>
-                     <staffDef xml:id="i2-1" n="2" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                        <label xml:id="label-2">Cor Anglats</label>
+                     <staffDef xml:id="i14-1" n="2" lines="5" clef.shape="G" clef.line="2" keysig="1s" meter.count="6" meter.unit="8">
+                        <label xml:id="label-2">Cor Anglais</label>
                      </staffDef>
-                     <staffDef xml:id="i3-1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i3-1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                         <label xml:id="label-3">Clarınettes: en b</label>
                      </staffDef>
-                     <staffDef xml:id="i4-1" n="4" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i4-1" n="4" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
                         <label xml:id="label-4">Bassons,</label>
                      </staffDef>
-                     <staffDef xml:id="i5-1" n="5" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i5-1" n="5" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                         <label xml:id="label-5">Cors en LA</label>
                      </staffDef>
-                     <staffDef xml:id="i6-1" n="6" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i6-1" n="6" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                         <label xml:id="label-6">Cors en MI</label>
                      </staffDef>
-                     <staffDef xml:id="i7-1" n="7" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i7-1" n="7" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                         <label xml:id="label-7">Violons,</label>
                      </staffDef>
-                     <staffDef xml:id="i8-1" n="8" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i8-1" n="8" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                         <label xml:id="label-8">Altos,</label>
                      </staffDef>
-                     <staffDef xml:id="i9-1" n="9" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i9-1" n="9" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                         <label xml:id="label-9">NADIR</label>
                      </staffDef>
-                     <staffDef xml:id="i10-1" n="10" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i10-1" n="10" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
                         <label xml:id="label-10">Violoncelles,</label>
                      </staffDef>
-                     <staffDef xml:id="i11-1" n="11" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                     <staffDef xml:id="i11-1" n="11" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
                         <label xml:id="label-11">C. ‘Basses</label>
                      </staffDef>
                   </staffGrp>
