@@ -28,27 +28,27 @@
 			]
 		},
 		{
-			"id": "i3",
-			"name": "Clarınettes: en b",
+			"id": "i15",
+			"name": "Clarinettes: en Si b",
 			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i3-1",
+					"id": "i15-1",
 					"parts": []
 				}
 			]
 		},
 		{
-			"id": "i4",
-			"name": "Bassons,",
+			"id": "i16",
+			"name": "Bassons",
 			"abbr": "",
 			"grand": false,
 			"parts": [],
 			"staves": [
 				{
-					"id": "i4-1",
+					"id": "i16-1",
 					"parts": []
 				}
 			]
@@ -274,14 +274,14 @@
 					"uly": 866,
 					"lrx": 2796,
 					"lry": 936,
-					"staff": "i3-1"
+					"staff": "i15-1"
 				},
 				{
 					"ulx": 569,
 					"uly": 1016,
 					"lrx": 2794,
 					"lry": 1089,
-					"staff": "i4-1"
+					"staff": "i16-1"
 				},
 				{
 					"ulx": 574,

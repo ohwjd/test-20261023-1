@@ -100,11 +100,11 @@
                      <staffDef xml:id="i14-1" n="2" lines="5" clef.shape="G" clef.line="2" keysig="1s" meter.count="6" meter.unit="8">
                         <label xml:id="label-2">Cor Anglais</label>
                      </staffDef>
-                     <staffDef xml:id="i3-1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
-                        <label xml:id="label-3">Clarınettes: en b</label>
+                     <staffDef xml:id="i15-1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
+                        <label xml:id="label-3">Clarinettes: en Si b</label>
                      </staffDef>
-                     <staffDef xml:id="i4-1" n="4" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
-                        <label xml:id="label-4">Bassons,</label>
+                     <staffDef xml:id="i16-1" n="4" lines="5" clef.shape="F" clef.line="4" meter.count="6" meter.unit="8">
+                        <label xml:id="label-4">Bassons</label>
                      </staffDef>
                      <staffDef xml:id="i5-1" n="5" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                         <label xml:id="label-5">Cors en LA</label>
