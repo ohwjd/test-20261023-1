@@ -118,12 +118,22 @@
                      <staffDef xml:id="i4-1" n="6" lines="5" clef.shape="C" clef.line="3" meter.count="4" meter.unit="4">
                         <label xml:id="label-8">VIOLE</label>
                      </staffDef>
-                     <staffDef xml:id="i5-1" n="7" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4">
+                     <staffGrp xml:id="i5" symbol="bracket" bar.thru="true">
                         <label xml:id="label-9">VIOLONCELLI</label>
-                     </staffDef>
-                     <staffDef xml:id="i6-1" n="8" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4">
-                        <label xml:id="label-10">CONTRABBASSI</label>
-                     </staffDef>
+                        <instrDef xml:id="instrDef-3"/>
+                        <staffDef xml:id="i5-2" n="7" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4">
+                           <label xml:id="label-10">Vc</label>
+                           <labelAbbr xml:id="labelAbbr-5">Vc</labelAbbr>
+                        </staffDef>
+                     </staffGrp>
+                     <staffGrp xml:id="i6" symbol="bracket" bar.thru="true">
+                        <label xml:id="label-11">CONTRABBASSI</label>
+                        <instrDef xml:id="instrDef-4"/>
+                        <staffDef xml:id="i6-2" n="8" lines="5" clef.shape="F" clef.line="4" meter.count="4" meter.unit="4">
+                           <label xml:id="label-12">Kb</label>
+                           <labelAbbr xml:id="labelAbbr-6">Kb</labelAbbr>
+                        </staffDef>
+                     </staffGrp>
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-1">

@@ -91,11 +91,17 @@
 			"name": "VIOLONCELLI",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "Vc"
+				}
+			],
 			"staves": [
 				{
-					"id": "i5-1",
-					"parts": []
+					"id": "i5-2",
+					"parts": [
+						0
+					]
 				}
 			]
 		},
@@ -104,11 +110,17 @@
 			"name": "CONTRABBASSI",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "Kb"
+				}
+			],
 			"staves": [
 				{
-					"id": "i6-1",
-					"parts": []
+					"id": "i6-2",
+					"parts": [
+						0
+					]
 				}
 			]
 		}
@@ -270,14 +282,14 @@
 					"uly": 1513,
 					"lrx": 2163,
 					"lry": 1578,
-					"staff": "i5-1"
+					"staff": "i5-2"
 				},
 				{
 					"ulx": 454,
 					"uly": 1639,
 					"lrx": 2160,
 					"lry": 1705,
-					"staff": "i6-1"
+					"staff": "i6-2"
 				},
 				{
 					"ulx": 257,
