@@ -2,15 +2,21 @@
 	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
 	"instruments": [
 		{
-			"id": "i1",
-			"name": "III",
+			"id": "i15",
+			"name": "Flöte",
 			"abbr": "",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "I"
+				}
+			],
 			"staves": [
 				{
-					"id": "i1-1",
-					"parts": []
+					"id": "i15-2",
+					"parts": [
+						0
+					]
 				}
 			]
 		},
@@ -222,14 +228,15 @@
 					"ulx": 535,
 					"uly": 577,
 					"lrx": 2507,
-					"lry": 657
+					"lry": 657,
+					"staff": "i15-2"
 				},
 				{
 					"ulx": 530,
 					"uly": 771,
 					"lrx": 2507,
 					"lry": 858,
-					"staff": "i1-1"
+					"staff": "i15-2"
 				},
 				{
 					"ulx": 539,
