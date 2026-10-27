@@ -170,10 +170,10 @@
 			"grand": false,
 			"parts": [
 				{
-					"name": "II"
+					"name": "I"
 				},
 				{
-					"name": "I"
+					"name": "II"
 				},
 				{
 					"name": "III"
@@ -311,7 +311,7 @@
 		}
 	],
 	"groups": [],
-	"instrumentsFixed": false,
+	"instrumentsFixed": true,
 	"pages": [
 		{
 			"image": "../img/01.jpg",

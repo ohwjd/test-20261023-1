@@ -192,10 +192,10 @@
                         <label xml:id="label-28">Posaune</label>
                         <instrDef xml:id="instrDef-7"/>
                         <staffDef xml:id="i6-2" n="10" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
-                           <label xml:id="label-29">II.I.III</label>
-                           <labelAbbr xml:id="labelAbbr-10">II.I.III</labelAbbr>
-                           <layerDef xml:id="layerDef-13" n="1"><label xml:id="label-30">II</label></layerDef>
-                           <layerDef xml:id="layerDef-14" n="2"><label xml:id="label-31">I</label></layerDef>
+                           <label xml:id="label-29">I.II.III</label>
+                           <labelAbbr xml:id="labelAbbr-10">I.II.III</labelAbbr>
+                           <layerDef xml:id="layerDef-13" n="1"><label xml:id="label-30">I</label></layerDef>
+                           <layerDef xml:id="layerDef-14" n="2"><label xml:id="label-31">II</label></layerDef>
                            <layerDef xml:id="layerDef-15" n="3"><label xml:id="label-32">III</label></layerDef>
                         </staffDef>
                      </staffGrp>
