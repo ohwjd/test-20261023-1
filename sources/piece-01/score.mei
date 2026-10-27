@@ -235,17 +235,20 @@
                      <staffGrp xml:id="i23" symbol="bracket" bar.thru="true">
                         <label xml:id="label-44">Violoncello und Kontrabass</label>
                         <instrDef xml:id="instrDef-9"/>
-                        <staffDef xml:id="i23-1" n="19" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2"/>
-                        <staffDef xml:id="i23-2" n="20" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
+                        <staffDef xml:id="i23-2" n="19" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
                            <label xml:id="label-45">Vc</label>
                            <labelAbbr xml:id="labelAbbr-14">Vc</labelAbbr>
                         </staffDef>
+                        <staffDef xml:id="i23-3" n="20" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
+                           <label xml:id="label-46">Kb</label>
+                           <labelAbbr xml:id="labelAbbr-15">Kb</labelAbbr>
+                        </staffDef>
                      </staffGrp>
                      <staffDef xml:id="i13-1" n="21" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
-                        <label xml:id="label-46">Violoncello</label>
+                        <label xml:id="label-47">Violoncello</label>
                      </staffDef>
                      <staffDef xml:id="i22-1" n="22" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
-                        <label xml:id="label-47">Kontrabass</label>
+                        <label xml:id="label-48">Kontrabass</label>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
