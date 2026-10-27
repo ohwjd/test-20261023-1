@@ -156,10 +156,10 @@
                         <label xml:id="label-13">Fagott</label>
                         <instrDef xml:id="instrDef-4"/>
                         <staffDef xml:id="i17-2" n="6" lines="5" clef.shape="F" clef.line="4" keysig="4s" meter.count="2" meter.unit="2">
-                           <label xml:id="label-14">II.I</label>
-                           <labelAbbr xml:id="labelAbbr-6">II.I</labelAbbr>
-                           <layerDef xml:id="layerDef-5" n="1"><label xml:id="label-15">II</label></layerDef>
-                           <layerDef xml:id="layerDef-6" n="2"><label xml:id="label-16">I</label></layerDef>
+                           <label xml:id="label-14">I.II</label>
+                           <labelAbbr xml:id="labelAbbr-6">I.II</labelAbbr>
+                           <layerDef xml:id="layerDef-5" n="1"><label xml:id="label-15">I</label></layerDef>
+                           <layerDef xml:id="layerDef-6" n="2"><label xml:id="label-16">II</label></layerDef>
                         </staffDef>
                      </staffGrp>
                      <staffGrp xml:id="i18" symbol="bracket" bar.thru="true">
@@ -182,10 +182,10 @@
                         <label xml:id="label-24">Trompete in F</label>
                         <instrDef xml:id="instrDef-6"/>
                         <staffDef xml:id="i19-2" n="9" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="2" meter.unit="2">
-                           <label xml:id="label-25">II.I</label>
-                           <labelAbbr xml:id="labelAbbr-9">II.I</labelAbbr>
-                           <layerDef xml:id="layerDef-11" n="1"><label xml:id="label-26">II</label></layerDef>
-                           <layerDef xml:id="layerDef-12" n="2"><label xml:id="label-27">I</label></layerDef>
+                           <label xml:id="label-25">I.II</label>
+                           <labelAbbr xml:id="labelAbbr-9">I.II</labelAbbr>
+                           <layerDef xml:id="layerDef-11" n="1"><label xml:id="label-26">I</label></layerDef>
+                           <layerDef xml:id="layerDef-12" n="2"><label xml:id="label-27">II</label></layerDef>
                         </staffDef>
                      </staffGrp>
                      <staffGrp xml:id="i6" symbol="bracket" bar.thru="true">
