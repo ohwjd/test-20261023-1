@@ -54,30 +54,28 @@
 			]
 		},
 		{
-			"id": "i21",
-			"name": "Cors",
+			"id": "i22",
+			"name": "Cors en LA",
 			"abbr": "",
 			"grand": false,
-			"parts": [
-				{
-					"name": "LA"
-				},
-				{
-					"name": "MI"
-				}
-			],
+			"parts": [],
 			"staves": [
 				{
-					"id": "i21-2",
-					"parts": [
-						0
-					]
-				},
+					"id": "i22-2",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i23",
+			"name": "Cors en MI",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
 				{
-					"id": "i21-3",
-					"parts": [
-						1
-					]
+					"id": "i23-2",
+					"parts": []
 				}
 			]
 		},
@@ -305,14 +303,14 @@
 					"uly": 1159,
 					"lrx": 2798,
 					"lry": 1228,
-					"staff": "i21-2"
+					"staff": "i22-2"
 				},
 				{
 					"ulx": 572,
 					"uly": 1304,
 					"lrx": 2790,
 					"lry": 1371,
-					"staff": "i21-3"
+					"staff": "i23-2"
 				},
 				{
 					"ulx": 575,
@@ -375,7 +373,7 @@
 					"uly": 2660,
 					"lrx": 2789,
 					"lry": 2723,
-					"staff": "i21-3"
+					"staff": "i23-2"
 				},
 				{
 					"ulx": 277,
@@ -553,14 +551,14 @@
 					"uly": 569,
 					"lrx": 2763,
 					"lry": 626,
-					"staff": "i21-2"
+					"staff": "i22-2"
 				},
 				{
 					"ulx": 289,
 					"uly": 731,
 					"lrx": 2753,
 					"lry": 800,
-					"staff": "i21-3"
+					"staff": "i23-2"
 				},
 				{
 					"ulx": 275,
@@ -623,14 +621,14 @@
 					"uly": 2332,
 					"lrx": 2762,
 					"lry": 2397,
-					"staff": "i21-2"
+					"staff": "i22-2"
 				},
 				{
 					"ulx": 272,
 					"uly": 2498,
 					"lrx": 2763,
 					"lry": 2571,
-					"staff": "i21-3"
+					"staff": "i23-2"
 				},
 				{
 					"ulx": 272,
