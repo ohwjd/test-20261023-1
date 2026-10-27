@@ -20,7 +20,7 @@ T0006,S0001,pending,,,
 T0007,,encoding_required,,,
 T0007,S0001,pending,,,
 P0004,,validation_required,38179254,2026-10-23T13:23:46.352Z,
-P0004,S0001,validation_required,,,
+P0004,S0001,validation_required,,,pass
 T0008,,encoding_required,,,
 T0008,S0001,pending,,,
 T0009,,encoding_required,,,
