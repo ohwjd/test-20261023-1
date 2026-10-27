@@ -291,6 +291,29 @@
 			]
 		},
 		{
+			"id": "i23",
+			"name": "Violoncello und Kontrabass",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "Vc"
+				}
+			],
+			"staves": [
+				{
+					"id": "i23-1",
+					"parts": []
+				},
+				{
+					"id": "i23-2",
+					"parts": [
+						0
+					]
+				}
+			]
+		},
+		{
 			"id": "i13",
 			"name": "Violoncello",
 			"abbr": "",
@@ -484,14 +507,14 @@
 					"uly": 2970,
 					"lrx": 2338,
 					"lry": 3047,
-					"staff": "i13-1"
+					"staff": "i23-2"
 				},
 				{
 					"ulx": 492,
 					"uly": 3117,
 					"lrx": 2342,
 					"lry": 3185,
-					"staff": "i22-1"
+					"staff": "i23-1"
 				}
 			],
 			"grandstaves": []
