@@ -26,3 +26,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-10-27T13:10:24.239Z,P0001,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0001""}",24
 2026-10-27T13:11:29.314Z,P0001,,297915765,release_encoding,accepted,,campaign.abandon,1,"{""task_id"":""P0001"",""subtask_id"":""""}",25
 2026-10-27T13:19:41.171Z,P0001,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0001""}",26
+2026-10-27T13:20:52.538Z,P0001,,297915765,submit_encoding,accepted,,campaign.submitOmrLayout,2,"{""task_id"":""P0001"",""staves"":66,""grandstaves"":0,""measures"":35,""systems"":2,""movements"":1}",27
