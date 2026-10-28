@@ -44,3 +44,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-10-28T10:02:25.262Z,T0002,,297915765,claim_encoding,accepted,,campaign.openEditor,1,"{""task_id"":""T0002""}",42
 2026-10-28T10:07:34.024Z,T0003,,297915765,claim_encoding,accepted,,campaign.openEditor,1,"{""task_id"":""T0003""}",43
 2026-10-28T10:08:32.395Z,T0003,,297915765,release_encoding,accepted,,campaign.abandon,1,"{""task_id"":""T0003"",""subtask_id"":""""}",44
+2026-10-28T10:09:18.678Z,T0002,,297915765,release_encoding,accepted,,campaign.abandon,1,"{""task_id"":""T0002"",""subtask_id"":""""}",45
